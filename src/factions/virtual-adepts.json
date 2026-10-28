@@ -1,7 +1,7 @@
 {
   "name": "Virtual Adepts",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-virtual-adepts.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-virtual-adepts.svg",
   "system": {
     "description": "<p>The youngest Tradition and former Technocrats, focused on the Digital Web and the search for the singularity. Also called the Mercurial Elite.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Correspondence/Data; Forces</p>",
     "focus": "<p>Everything is Data. Every tool shapes, gathers, stores or destroys information. The Adepts are reality hackers using advanced computer gear, nanotech and implants alongside cybernetics, hypertech, weird science and chaos magick.</p>",

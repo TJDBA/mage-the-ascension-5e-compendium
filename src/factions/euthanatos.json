@@ -1,7 +1,7 @@
 {
   "name": "Euthanatos",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-euthanatos.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-euthanatos.svg",
   "system": {
     "description": "<p>Mages who understand death, fate and the turning of the Wheel, guiding patterns through their proper ends.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Entropy; Life or Spirit</p>",
     "focus": "<p>Death and rebirth are part of a sacred cycle. The Euthanatos read fate and entropy, and act \u2013 sometimes lethally \u2013 to keep the Wheel turning, drawing on ritual, meditation and a deep study of endings.</p>",

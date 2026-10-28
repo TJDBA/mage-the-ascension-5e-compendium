@@ -1,7 +1,7 @@
 {
   "name": "Dreamspeakers",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-dreamspeakers.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-dreamspeakers.svg",
   "system": {
     "description": "<p>Shamans and spirit-talkers who walk between the material world and the spirit realms.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Spirit; Forces, Life, or Matter</p>",
     "focus": "<p>Magick is a partnership with spirits and the living world. Through ritual, trance, offerings and respect for the Umbra, Dreamspeakers broker pacts with spirits and tend the balance between the seen and unseen.</p>",

@@ -1,7 +1,7 @@
 {
   "name": "Akashayana",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-akashayana.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-akashayana.svg",
   "system": {
     "description": "<p>Mystical martial artists whose meditations grant them insight. Also called the Akashic Brotherhood.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Mind or Life</p>",
     "focus": "<p>Magick is self-perfection and cosmic harmony, reached by expanding awareness, clarifying thought, focusing the body and subduing emotion. Practices draw on Asian alchemy, craftwork, faith, yoga, social dominion and martial arts to channel chi.</p>",

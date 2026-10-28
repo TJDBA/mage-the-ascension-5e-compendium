@@ -1,7 +1,7 @@
 {
   "name": "Cult of Ecstasy",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-cult-of-ecstasy.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-cult-of-ecstasy.svg",
   "system": {
     "description": "<p>Seers who transcend boundaries and limitations through sacred experience.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Time; Life, or Mind</p>",
     "focus": "<p>Enlightenment comes through intense sensation and altered states that break ordinary limits \u2013 music, dance, movement, drugs, sex and raw experience. The Ecstatics ride these peaks to perceive truths hidden from sober minds.</p>",

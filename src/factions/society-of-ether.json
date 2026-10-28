@@ -1,7 +1,7 @@
 {
   "name": "Society of Ether",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-society-of-ether.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-society-of-ether.svg",
   "system": {
     "description": "<p>Visionary scientists who broke from the Technocracy, keeping outdated and romantic technologies as the heart of their paradigm. Also called Etherites or the Sons of Ether.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Matter; Forces or Prime</p>",
     "focus": "<p>Science! \u2013 but imaginative, showy and gracefully futuristic, Science that can be seen, held and demonstrated. Etherites favour esoteric alchemy, craftwork, cybernetics, hypertech, reality hacking and weird science.</p>",

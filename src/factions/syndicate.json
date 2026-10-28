@@ -1,7 +1,7 @@
 {
   "name": "Syndicate",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-syndicate.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-syndicate.svg",
   "system": {
     "description": "<p>The Technocracy's masters of money, markets and material power.</p><p><strong>Affiliation:</strong> Technocracy<br><strong>Affinity Spheres:</strong> Entropy, Mind or Primal Utility</p>",
     "focus": "<p>Wealth is the truest power over reality. The Syndicate works through finance, media and economics, moving resources and desire to fund the Union and bind the world to its ledgers. Its operatives rarely resort to vulgar Procedures.</p>",

@@ -1,7 +1,7 @@
 {
   "name": "Verbena",
   "type": "faction",
-  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-verbena.webp",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-verbena.svg",
   "system": {
     "description": "<p>Keepers of the ancient crafts and wisdom of witches and warlocks, druids, shamans and priests of the Old Gods. Organised into covens tied to the turning seasons.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Life; Forces</p>",
     "focus": "<p>Magick springs from blood, life and the living world \u2013 the power of the body, the seasons and the Old Gods. Verbena work through ordeal, sacrifice, herbcraft and the rites of the wheel of the year.</p>",
