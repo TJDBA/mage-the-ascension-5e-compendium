@@ -16,7 +16,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "wod5e",
+        "id": "wod5e-mta",
         "type": "system",
         "compatibility": {}
       }
@@ -28,7 +28,7 @@
       "label": "Spheres",
       "path": "packs/spheres",
       "type": "Item",
-      "system": "wod5e",
+      "system": "wod5e-mta",
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
@@ -36,7 +36,7 @@
       "label": "Factions",
       "path": "packs/factions",
       "type": "Item",
-      "system": "wod5e",
+      "system": "wod5e-mta",
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     }
   ],
