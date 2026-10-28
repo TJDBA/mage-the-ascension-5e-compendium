@@ -1,0 +1,10 @@
+{
+  "name": "Celestial Chorus",
+  "type": "faction",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-celestial-chorus.webp",
+  "system": {
+    "description": "<p>United by their efforts to touch the Divine and their belief in the One and Prime from which all things originate.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Prime; Forces, or Spirit</p>",
+    "focus": "<p>The Arts flow from faith, unity and harmony with the Divine Will rather than personal intent. Song \u2013 many voices joined in harmony \u2013 is the oldest instrument, and magick manifests in light, fire, warmth and sublime music through faith and High Ritual.</p>",
+    "source": { "book": "M5 Mage the Ascension", "page": "25" }
+  }
+}

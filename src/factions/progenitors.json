@@ -1,0 +1,10 @@
+{
+  "name": "Progenitors",
+  "type": "faction",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-progenitors.webp",
+  "system": {
+    "description": "<p>The Technocracy's masters of life science \u2013 medicine, genetics and biotechnology.</p><p><strong>Affiliation:</strong> Technocracy<br><strong>Affinity Spheres:</strong> Life or Prime</p>",
+    "focus": "<p>Life itself can be engineered toward perfection. Progenitors work through medicine, genetics, pharmacology and cloning, curing, enhancing and designing living Patterns with the tools of enlightened biology.</p>",
+    "source": { "book": "M5 Mage the Ascension", "page": "" }
+  }
+}

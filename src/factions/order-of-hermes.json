@@ -1,0 +1,10 @@
+{
+  "name": "Order of Hermes",
+  "type": "faction",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-order-of-hermes.webp",
+  "system": {
+    "description": "<p>Consummate scholars of ancient and arcane ritual, drawing on a vast fundus of occult knowledge. Organised into Houses under the Code of Hermes.</p><p><strong>Affiliation:</strong> Traditions<br><strong>Affinity Spheres:</strong> Forces</p>",
+    "focus": "<p>A Hermetic commands the keys to the universe through constant study and practice, tapping elemental currents with incantations, signs, seals and secret languages. Alchemy, dominion and High Ritual form the core of the Order's Arts.</p>",
+    "source": { "book": "M5 Mage the Ascension", "page": "33" }
+  }
+}

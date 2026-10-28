@@ -1,0 +1,10 @@
+{
+  "name": "Iteration X",
+  "type": "faction",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-iteration-x.webp",
+  "system": {
+    "description": "<p>The Technocracy's engineers of the machine \u2013 cybernetics, robotics and precision mechanism.</p><p><strong>Affiliation:</strong> Technocracy<br><strong>Affinity Spheres:</strong> Forces, Matter, or Time</p>",
+    "focus": "<p>Reality is a machine to be measured, improved and perfected. Iterators work through hard technology \u2013 cybernetics, robotics, computation and industrial process \u2013 trusting what can be built, tested and repeated.</p>",
+    "source": { "book": "M5 Mage the Ascension", "page": "" }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "New World Order",
+  "type": "faction",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-new-world-order.webp",
+  "system": {
+    "description": "<p>The Technocracy's shapers of consensus \u2013 information, surveillance and the management of minds and society.</p><p><strong>Affiliation:</strong> Technocracy<br><strong>Affinity Spheres:</strong> Mind or Correspondence/Data</p>",
+    "focus": "<p>Order is kept by controlling what people know and believe. The NWO works through information, media, psychology and surveillance, steering the consensus so that reality stays predictable and safe.</p>",
+    "source": { "book": "M5 Mage the Ascension", "page": "" }
+  }
+}

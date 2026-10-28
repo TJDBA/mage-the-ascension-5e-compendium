@@ -1,0 +1,10 @@
+{
+  "name": "Void Engineers",
+  "type": "faction",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/faction-void-engineers.webp",
+  "system": {
+    "description": "<p>The Technocracy's explorers of the deep \u2013 outer space, the Deep Umbra and the dimensions beyond.</p><p><strong>Affiliation:</strong> Technocracy<br><strong>Affinity Spheres:</strong> Dimensional Science, Correspondence, or Forces</p>",
+    "focus": "<p>The frontier must be mapped and made safe. Void Engineers work through Dimensional Science, spacecraft and exploratory technology, charting the void and defending reality's edges from what lurks beyond.</p>",
+    "source": { "book": "M5 Mage the Ascension", "page": "" }
+  }
+}

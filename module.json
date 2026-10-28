@@ -1,0 +1,55 @@
+{
+  "id": "mage-the-ascension-5e-compendium",
+  "title": "Mage the Ascension 5e Compendium",
+  "description": "A compendium of player options for Mage: The Ascension 5th Edition (M5), for use with the WoD5e system for Foundry VTT. Contains the nine Spheres and the Traditions, Conventions and other factions.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "TJDBA",
+      "url": "https://github.com/TJDBA"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wod5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "spheres",
+      "label": "Spheres",
+      "path": "packs/spheres",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "factions",
+      "label": "Factions",
+      "path": "packs/factions",
+      "type": "Item",
+      "system": "wod5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Mage the Ascension",
+      "sorting": "m",
+      "packs": ["spheres", "factions"]
+    }
+  ],
+  "styles": ["styles/mage-compendium.css"],
+  "url": "https://github.com/TJDBA/Mage-the-Ascension-5e-Compendium",
+  "manifest": "https://raw.githubusercontent.com/TJDBA/Mage-the-Ascension-5e-Compendium/main/module.json",
+  "download": "https://github.com/TJDBA/Mage-the-Ascension-5e-Compendium/archive/refs/heads/main.zip",
+  "flags": {}
+}

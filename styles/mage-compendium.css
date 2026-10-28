@@ -1,0 +1,44 @@
+/*
+ * Mage the Ascension 5e Compendium styling
+ * Palette: Ascension Purple, Ice Blue, Toxic Magenta, Prime Gold.
+ * Scoped to this module's compendium items so it never bleeds into the core WoD5e sheets.
+ */
+
+:root {
+  --mta-ascension-purple: #4A154B;
+  --mta-ascension-purple-deep: #2D0031;
+  --mta-ice-blue: #8FE2FF;
+  --mta-toxic-magenta: #D8005A;
+  --mta-prime-gold: #D4AF37;
+}
+
+/* Sphere and faction item sheets opened from this module's packs */
+.mta-compendium .window-content,
+.sheet.item.mta-compendium .window-content {
+  background: linear-gradient(160deg, var(--mta-ascension-purple-deep), var(--mta-ascension-purple));
+  color: #F3E9F5;
+}
+
+.mta-compendium h1,
+.mta-compendium h2,
+.mta-compendium h3 {
+  color: var(--mta-prime-gold);
+  border-bottom: 1px solid var(--mta-ice-blue);
+  padding-bottom: 2px;
+}
+
+.mta-compendium a,
+.mta-compendium .ice {
+  color: var(--mta-ice-blue);
+}
+
+/* Paradox / instability emphasis */
+.mta-compendium .paradox,
+.mta-compendium .danger {
+  color: var(--mta-toxic-magenta);
+  font-weight: 600;
+}
+
+.mta-compendium strong {
+  color: var(--mta-ice-blue);
+}
