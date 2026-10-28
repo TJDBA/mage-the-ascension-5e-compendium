@@ -48,8 +48,8 @@
     }
   ],
   "styles": ["styles/mage-compendium.css"],
-  "url": "https://github.com/TJDBA/Mage-the-Ascension-5e-Compendium",
-  "manifest": "https://raw.githubusercontent.com/TJDBA/Mage-the-Ascension-5e-Compendium/main/module.json",
-  "download": "https://github.com/TJDBA/Mage-the-Ascension-5e-Compendium/archive/refs/heads/main.zip",
+  "url": "https://github.com/TJDBA/mage-the-ascension-5e-compendium",
+  "manifest": "https://raw.githubusercontent.com/TJDBA/mage-the-ascension-5e-compendium/main/module.json",
+  "download": "https://github.com/TJDBA/mage-the-ascension-5e-compendium/archive/refs/heads/main.zip",
   "flags": {}
 }

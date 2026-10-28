@@ -18,7 +18,7 @@ It adds two compendium packs:
 In Foundry, **Add-on Modules → Install Module**, paste this manifest URL:
 
 ```
-https://raw.githubusercontent.com/TJDBA/Mage-the-Ascension-5e-Compendium/main/module.json
+https://raw.githubusercontent.com/TJDBA/mage-the-ascension-5e-compendium/main/module.json
 ```
 
 Then enable the module in your world and open the **Spheres** and **Factions** compendia from the Compendium Packs sidebar.
