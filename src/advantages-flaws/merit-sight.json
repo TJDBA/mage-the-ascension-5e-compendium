@@ -1,0 +1,20 @@
+{
+  "name": "Sight",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●●\tUmbral Sight: You instinctively recognize spirits from the Umbral, you gain an additional 3 to your dice pool when rolling to recognize spirits from the Umbra and you may make awareness tests to pierce their veils and deceit even when you would normally require the Spirit sphere to do so.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "Jfyer4KruyviMZRU",
+  "_key": "!items!Jfyer4KruyviMZRU"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Substance Use",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>● High-Functioning Addict: You add one die to any one category of pool (specify when you choose which substance you use) when you use your drug.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "59ocoLfcr75cyoBG",
+  "_key": "!items!59ocoLfcr75cyoBG"
+}

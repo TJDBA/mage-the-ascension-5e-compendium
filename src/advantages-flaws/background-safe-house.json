@@ -1,0 +1,20 @@
+{
+  "name": "Safe House",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>● to ● ● ● Occult Library: You own or have access to a repository of arcane books and information. You may add the number of dots in this merit when roll for an appropriate occult test and you have access to your library.</p><p>●\tNightclub: Your haven is actually a nightclub with great cover for meeting people, gossiping, soliciting information, private meeting rooms and even staff. While they work for you, they only will help out as much as nightclub employees are meant to and interfering too much with the day-to-day running of the club might cause problems.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "IfMwHqci97wqtxbx",
+  "_key": "!items!IfMwHqci97wqtxbx"
+}

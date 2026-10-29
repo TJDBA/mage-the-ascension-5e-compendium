@@ -1,0 +1,20 @@
+{
+  "name": "Resources",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>You have no money and no home.</p><p>This Background describes your Resources. These benefits are not necessarily financial in nature and are rarely completely liquid, but you can often sell them to gain money. It could take weeks or even months to do so, depending on how much needs to be sold. Especially as the Second Inquisition closes down Kindred bank accounts, vampires increasingly return to holding their Resources in cash – or in gold, art, narcotics, guns, and slaves. </p><p>Dots of Resources provide an income for you to maintain your standard of unliving, but you must detail the source of your income and the form this Background takes. After all, it might dry up, get stolen, or otherwise vanish during the chronicle</p><p>• Paycheck to paycheck lifestyle</p><p>•• Middle-class lifestyle</p><p>••• Upper-class lifestyle</p><p>•••• Wealthy lifestyle</p><p>••••• Ultra-rich lifestyle</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "4keH8GUhWYxPXVuW",
+  "_key": "!items!4keH8GUhWYxPXVuW"
+}

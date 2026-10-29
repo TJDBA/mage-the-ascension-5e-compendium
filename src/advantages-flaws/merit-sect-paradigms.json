@@ -1,0 +1,20 @@
+{
+  "name": "Sect Paradigms",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●\tBranch Sect (Specific Sect): This individual’s sect is incredibly similar to a specific sect with whom they are currently considered as ‘Different’. Treat them as part of that sect for the purposes of multi-casting penalties. Cannot be bought by nonDisparate sects.</p><p>●●\tCompatible Sect: This individual’s sect is compatible in its methods with a certain faction outside of its own. Treat them as ‘Different’ instead of ‘Radically Different’ with the selected sect faction. Cannot be bought by non-Disparate sects.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "V24hfm2xxdqvkkUA",
+  "_key": "!items!V24hfm2xxdqvkkUA"
+}

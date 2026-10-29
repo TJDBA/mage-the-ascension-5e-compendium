@@ -1,0 +1,20 @@
+{
+  "name": "Subtle Avatar",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) –1 to your Spellcasting rolls. However, rolls to counterspell you always lose 1 dice.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "fDkB1iOQc0rJnM0K",
+  "_key": "!items!fDkB1iOQc0rJnM0K"
+}

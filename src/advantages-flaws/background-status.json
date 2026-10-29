@@ -1,0 +1,20 @@
+{
+  "name": "Status",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>You’re not good with this sect at all. You weaseled out of a boon, broke an oath, or did something similar. You can try to stay out of sight and out of mind, but unless you somehow make amends, you suffer a two-dice penalty to all Social tests involving the offended faction.</p><p>You’re completely loathed by this sect. You betrayed them, crossed a local leader, or fought them in the past. Members of this group will actively work against you if they can.</p><p>• Known: A properly introduced, welcomed neonate, seen as an up-and-comer.</p><p>•• Respected: You have responsibilities now, an average ancilla.</p><p>••• Influential: You hold authority over part of the group, an average elder.</p><p>•••• Powerful: You hold office in the group, such as Sheriff, Harpy, or Scourge.</p><p>••••• Luminary: You sit at the table of power in the group, a respected member of the Primogen </p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "08pZENxBUiAnucxH",
+  "_key": "!items!08pZENxBUiAnucxH"
+}

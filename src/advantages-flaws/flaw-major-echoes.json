@@ -1,0 +1,20 @@
+{
+  "name": "Major Echoes",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) Even sleepers notice how you standout. Your shadow moves of its own accord, you don’t cast reflections, cold winds follow you, or people feel nauseous in your presence. People who know folklore might know the precautions to take (Intelligence + Occult maybe used to counterspell against you, Resolve + Occult vs your Willpower may be used to keep you at bay physically).</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "Y1nFMt2Fb6nqXnZD",
+  "_key": "!items!Y1nFMt2Fb6nqXnZD"
+}

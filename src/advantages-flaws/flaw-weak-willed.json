@@ -1,0 +1,20 @@
+{
+  "name": "Weak Willed",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●) You permanently have a point of aggravated willpower damage that may not be removed under any circumstance. ===PAGE 66=== 6 6</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "0k5TBjLBxWGZDpBN",
+  "_key": "!items!0k5TBjLBxWGZDpBN"
+}

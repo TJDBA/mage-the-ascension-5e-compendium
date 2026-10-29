@@ -1,0 +1,20 @@
+{
+  "name": "Bard’s Tongue",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●) Things you say sometime become true in unfortunate ways. The Storyteller should use this to hamper your character with ill fortune but not necessarily directly imperil you.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "qYaY2bI1wzxwE83B",
+  "_key": "!items!qYaY2bI1wzxwE83B"
+}

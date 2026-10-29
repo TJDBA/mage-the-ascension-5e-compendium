@@ -1,0 +1,20 @@
+{
+  "name": "Wonders",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>Wonders are a special Background, which can be purchased multiple times, for multiple wonders. A wonder by any name is still as sweet… and you have one. What’s a Wonder? Perhaps it’s a mystic Talisman imbued with magickal power; a Fetish whose strange properties come from a spirit bound within its form; or a Technocratic or weird-science Device, shaped by Enlightened Science into something that transcends mortal technology. In game terms, a Wonder is simply an item with Sphere Effects of its own. Although such items, with a few exceptions, usually work only for mages, the Wonder’s form and function depend on the people who created it and the methods involved in its creation. (See more in M20 page 651) System: You receive 3 Wonder Points for each Advantage Point allocated in Wonder Background. The Highest Sphere that can be used in any effects in a Wonder is equal to the Background rating. Every use of a Wonder costs 1 Quintessence from the Wonder itself. You can purchase any of the M20 Wonders with the Wonder Points discarding any left, for M5 conversion, replace Arete/Enlightenment for Potency. Or you can create your own \"purchasing\" the items below with Wonder Points: ■Potency: 1. Cost: Wonder Points equal to the Highest Sphere involved in any effects. ■Effect: 1 effect that they can do (up to Background rating). Cost: Wonder Points equal to the Highest Sphere involved in the effect. ■Quintessence: 3 (up to 5x Potency). Cost: 1 Wonder point. Background Costs As described in the M20 page 328, Wonders get rated by their overall power level, points described</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "c9qZNUgFPFtQJtRu",
+  "_key": "!items!c9qZNUgFPFtQJtRu"
+}

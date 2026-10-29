@@ -1,0 +1,20 @@
+{
+  "name": "Avatar Capacity",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●\tCapacious Avatar: Your Avatar is unusually capacious. Your capacity for Quintessence Empowerment is equal to one more than normal.</p><p>●●●● Mighty Avatar: Your Avatar is especially mighty. Your capacity for Quintessence Empowerment is equal to two more than normal.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "Wcuw0tiKwF3T0csp",
+  "_key": "!items!Wcuw0tiKwF3T0csp"
+}

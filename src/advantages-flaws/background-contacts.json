@@ -1,0 +1,20 @@
+{
+  "name": "Contacts",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>• One Contact who can provide you with common but specialized information, such as a weed dealer or a car salesman.</p><p>•• One Contact who can provide you with uncommon and privileged information, such as a small-time gun dealer or a psychiatrist.</p><p>••• One Contact who can provide you with critical and even government-classified information, such as a security systems expert, narcotics agent, or elite lobbyist.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "10oTCwl4UHStn7rs",
+  "_key": "!items!10oTCwl4UHStn7rs"
+}

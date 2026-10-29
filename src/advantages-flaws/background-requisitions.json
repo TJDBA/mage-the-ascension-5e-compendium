@@ -1,0 +1,20 @@
+{
+  "name": "Requisitions",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>There are reasons for Technocratic dominance. One of them involves the epic resources available to Technocratic operatives. With this Background – a Trait available ONLY to Technocrats in good standing with the Order – you can request goodies from your superiors and often expect to get them. Before a mission, you and your team will be issued whatever gear your superiors expect you to need. If you want more than that (as most agents do), you need to requisition it. In story terms, you tap your contacts and file an official request for the desired goodies – see Requisitioning, Outsourcing, and Borrowing Backgrounds (M20 page 302-303). In game terms, you roll your Requisitions rating as a dice pool. Each success on that roll gives you five wonder points with which to buy Devices for that mission. (See The Toybox, M20 page 651 for Devices and their costs.) More than three successes ===PAGE 69=== M A G E T H E A S C E N S I O N 6 9 scores you as much mundane Sleepertech as you can use. If your relationship with the Powers That Be is good, this’ll be an easy roll… and if not, then good luck getting anything other than an earful of abuse. See The Six Degrees in M20 (page 181-182), for examples of good standing and its alternatives.</p><p>●\tOne die: They don’t take you seriously.</p><p>●●\tTwo dice: “There might be something left over here for you…”</p><p>●●●\tThree dice: You’ve earned their trust.</p><p>●●●● Four dice: Q Division likes you.</p><p>●●●●●\tFive dice: You’re a trusted and valuable operative.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "vOYOggZkxDbdmIBQ",
+  "_key": "!items!vOYOggZkxDbdmIBQ"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Divergent Sect (Technocracy or Traditions)",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●) The individual’s sect uses techniques similar to either the Technocracy or the Traditions, al===PAGE 65=== M A G E T H E A S C E N S I O N 6 5 lowing them to multi-cast with the group (treat ‘Radically Different Sect’ as just ‘Different Sect’). However, their techniques have diverged from most mainstream sects of his faction. Any multicast with other sects they are part of takes a –1 penalty. Cannot be bought by non-Disparate sects.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "kmuUFsv86DS1hSIW",
+  "_key": "!items!kmuUFsv86DS1hSIW"
+}

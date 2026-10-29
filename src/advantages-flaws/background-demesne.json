@@ -1,0 +1,20 @@
+{
+  "name": "Demesne",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>A mage’s mind is her castle. There, she can get away from it all to a world of her own making. Classical and Renaissance treatises refer to memory palaces, wherein a person builds a structure in her mind as an aid to meditation, study, reflection, and, of course, memory. Shaped from the builder’s consciousness, these constructs have no physical form, yet they offer a type of refuge. With this Background, you have such a place. In game terms, the Background rating reflects the degree of control you have over this place once it’s established. At low ratings, you can visit the Realm but not command it, while at higher levels you determine almost every detail of your Realm. (See the Lucid Dreaming, M20 page 294.) Figure out your Demesne’s appearance and nature, probably in collaboration with your Storyteller… who’s bound to add a few elements of her own. When dreaming or meditating, your character can go visit his Demesne with a successful Resolve + Demesne roll. The difficulty depends upon your situation: directing yourself there under normal circumstances would be difficulty 2, whereas trying to reach it under distressing circumstances (say, while enduring torture or other challenges) would range from difficulty 3 to 5. Once he’s arrived, the character’s consciousness is free to wander around the Demesne. Although physical or mental distress can disrupt the Realm, it’s still a familiar – if not always welcoming – space. See more information on M20 page 311.</p><p>●\tOccasional Visitor: You have a name for it and recognize a few significant features.</p><p>●●\tRegular Visitor: You’ve traveled extensively through the Demesne.</p><p>●●●\tWell-known Place: In your dreams, you know this place quite well.</p><p>●●●● Your Realm: This is your Realm, and though you don’t command its every feature or resident, they know and recognize you as someone of authority there.</p><p>●●●●●\tRuler: Lord or Lady of the Demesne, you know and command this Realm as if it were your kingdom… because it is.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "FlVPeJDuONRc7OBB",
+  "_key": "!items!FlVPeJDuONRc7OBB"
+}

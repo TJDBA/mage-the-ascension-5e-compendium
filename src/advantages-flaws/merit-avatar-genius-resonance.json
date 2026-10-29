@@ -1,0 +1,20 @@
+{
+  "name": "Avatar/Genius Resonance",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●\tAvatar Resonance: Your resonance is especially in tune with your dominant emotion. Whether it is kindness, hate, anger, sadness, or curiosity. When you pick this merit pick an emotion, typically one tied to your Essence. When you are in severely affected by this emotion you may choose to gain a bonus of +1 on any casting rolls, however after you do this you must immediately make a Disassociation Roll with a penalty equal to the number of times you have used this this chapter as the paradox and your emotion mix.</p><p>●●●● Avatar Resonance: Same as above, but +2.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "JkvGEYzAbaTeAb1T",
+  "_key": "!items!JkvGEYzAbaTeAb1T"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Running Water",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●) Standing over bodies of water causes your magic to seep away in proportion to the volume and speed at which it is flowing. In game terms you take a penalty to your Arete: around 1 for a small stream, heavy rain or sewers, 2 for a small sedate river, torrential rain or deep lake, 4 for a major rushing river or deep ocean and 5 for Niagara Falls. If this penalty reduces your Arete to 0 or below you may not cast and any ongoing spells you are maintaining end.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "cvFJiDiNnXKSR45w",
+  "_key": "!items!cvFJiDiNnXKSR45w"
+}

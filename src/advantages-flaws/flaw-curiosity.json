@@ -1,0 +1,20 @@
+{
+  "name": "Curiosity",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●) Your curiosity overrides your commonsense. Resisting temptation requires a successful Wits + Resolve (2) check.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "3vjBBRHBNbqaI5gO",
+  "_key": "!items!3vjBBRHBNbqaI5gO"
+}

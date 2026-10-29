@@ -1,0 +1,20 @@
+{
+  "name": "Noticeable Echoes",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●) People who know what to look for recognize you on sight. Flowers bloom or wither in your presence or music echoes through the air. Holy or unholy symbols repulse you and might force you to make a willpower check.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "JulEWe9IJOjCOFUh",
+  "_key": "!items!JulEWe9IJOjCOFUh"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fire",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) Fire burns you more than most. When using mystical methods to avoid, reduce, or otherwise diminish flames you roll 1 less dice and all flame-based attacks deal 1 extra point of aggravated damage against you.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "BmqorkeYPcDTjotC",
+  "_key": "!items!BmqorkeYPcDTjotC"
+}

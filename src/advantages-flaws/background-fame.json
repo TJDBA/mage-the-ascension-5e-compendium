@@ -1,0 +1,20 @@
+{
+  "name": "Fame",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>• A select subculture knows who you are and admires you.</p><p>•• You are a local celebrity, recognized by a majority of the city.</p><p>••• Most people in the country know at least your name.</p><p>•••• Everybody who even vaguely cares about social trends or your field knows something about you.</p><p>••••• Your Fame reaches mass national or even global audiences. You are a major movie star, stadium-filling rock act, or Internet personality.</p><p>Flaw: (•) You owe a big debt to bad people or have made yourself generally odious. Alternately, your spouse, lover, or close family member has Infamy ••</p><p>Flaw: (••) You are a Cleaver or serial breacher of the Masquerade, have been Blood Hunted out of another city, or have grievously offended this domain’s ruler.</p><p>You are famous for something horrible. At the very least, the Difficulty of most reaction tests increases by the amount of the Flaw; at worst, the authorities attempt to kill or capture you whenever you appear</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "Z4dUttW8dGMXGGE5",
+  "_key": "!items!Z4dUttW8dGMXGGE5"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Looks",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>You lose one die from all relevant Social dice pools.</p><p>You lose two dice from all relevant Social dice pools.</p><p>You add one extra die to all appropriate Social dice pools.</p><p>You add two extra dice to all appropriate Social dice pools, as above.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "BMJRICgXM2BWhzgI",
+  "_key": "!items!BMJRICgXM2BWhzgI"
+}

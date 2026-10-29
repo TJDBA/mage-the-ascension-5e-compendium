@@ -1,0 +1,20 @@
+{
+  "name": "Linguistics",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>You cannot read or write. Your Academics and Science Skills are capped at 1, and you can have no Specialty in them that incorporates modern knowledge.</p><p>Every character has fluency in their birth language and (unless the player and Storyteller have a reason to declare otherwise) in the dominant language of the chronicle setting. For example, a Mexican werewolf in a chronicle set in the Utah Badlands can speak and read Spanish and English. Storytellers may opt to allow Garou whose birth tongue matches that of the setting to take a second language anyway.</p><p>Each dot in Linguistics allows the character to fluently speak, write, and read one additional language apart from those two default languages.</p><p>Note that reading certain old documents or chanting in a strange dialect may impose additional Difficulty to Academics or Occult tests.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "yE4OcdnxndgkFNFR",
+  "_key": "!items!yE4OcdnxndgkFNFR"
+}

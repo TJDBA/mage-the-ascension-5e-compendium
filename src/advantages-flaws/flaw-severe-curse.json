@@ -1,0 +1,20 @@
+{
+  "name": "Severe Curse",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) Accidents happen frequent to you, your bank account and internet accounts are frequently hacked, you keep getting your wallet and phone stolen, and driving anywhere is a risk.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "TjZLlQcaulL3hvny",
+  "_key": "!items!TjZLlQcaulL3hvny"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Slight Curse",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●) Tech fails around you, traffic jams occur whenever you drive, tires go flat. ===PAGE 63=== M A G E T H E A S C E N S I O N 6 3</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "vfbVaqF8sHh8m71k",
+  "_key": "!items!vfbVaqF8sHh8m71k"
+}

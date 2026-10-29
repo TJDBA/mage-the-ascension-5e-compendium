@@ -46,13 +46,21 @@
       "type": "Item",
       "system": "wod5e-mta",
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "advantages-flaws",
+      "label": "Advantages & Flaws",
+      "path": "packs/advantages-flaws",
+      "type": "Item",
+      "system": "wod5e-mta",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     }
   ],
   "packFolders": [
     {
       "name": "Mage the Ascension",
       "sorting": "m",
-      "packs": ["spheres", "rotes", "factions"]
+      "packs": ["spheres", "rotes", "advantages-flaws", "factions"]
     }
   ],
   "styles": ["styles/mage-compendium.css"],

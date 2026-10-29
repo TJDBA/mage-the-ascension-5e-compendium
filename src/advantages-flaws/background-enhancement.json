@@ -1,0 +1,20 @@
+{
+  "name": "Enhancement",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>Cybernetics, Biomods or Genegineering. Enlightened hypertech can accomplish incredible things, few of them more staggering (or, to some mages, unholy) than the modification of living tissue with the power of machines. Enhancements are devices and will be purchased as Wonders, see page 69 for details, and M20 page 657 for a list. Paradox Points are Permanent.</p><p>●●\t+1 Attribute dot, or 3 wonder points for Devices. One Permanent Paradox point or Genetic Flaw.</p><p>●●●●\t+2 Attribute dots, or 6 wonder points for Devices. Two Permanent Paradox points or Genetic Flaws.</p><p>●●●●● ● +3 Attribute dots, or 9 wonder points for Devices. Three Permanent Paradox points or Genetic Flaws.</p><p>●●●●● ●●● +4 Attribute dots, or 12 wonder points for Devices. Four Permanent Paradox points or Genetic Flaws.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "nYK4PKLGGjAiRsOo",
+  "_key": "!items!nYK4PKLGGjAiRsOo"
+}

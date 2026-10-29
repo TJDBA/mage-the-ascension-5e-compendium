@@ -1,0 +1,20 @@
+{
+  "name": "Mentor",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>Uses the Hunter 5e version (H5). See the Hunter rules.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "R3h4yDu8HhBlQ55r",
+  "_key": "!items!R3h4yDu8HhBlQ55r"
+}

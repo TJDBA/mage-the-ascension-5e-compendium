@@ -1,0 +1,20 @@
+{
+  "name": "Love",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●) There is someone you would do anything to protect. You must spend willpower to roll Willpower (dif. 3) to resist protecting or defending them via the most direct means possible.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "BBMhb1WnyEctxAjL",
+  "_key": "!items!BBMhb1WnyEctxAjL"
+}

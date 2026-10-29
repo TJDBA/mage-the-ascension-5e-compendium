@@ -1,0 +1,20 @@
+{
+  "name": "Health",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●●\tTrue Grit: You refuse to go down in a fight extends beyond the limits of normal human bodies. You may take a point of aggravated willpower damage to temporarily gain 3 health boxes that disappear at the end of the scene. Any damage in them is shifted to your remaining health when they are removed, this can result in superficial converting to aggravated, and can cause you to keel over and die when the fighting ends.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "sCHRjoCimIUVVhSW",
+  "_key": "!items!sCHRjoCimIUVVhSW"
+}

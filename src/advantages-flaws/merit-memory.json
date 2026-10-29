@@ -1,0 +1,20 @@
+{
+  "name": "Memory",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●\tEidetic Memory: Your memory is picture perfect. You roll all memory checks at up to plus 3 depending on visual element and may remember forgettable visual details.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "gaeGP7i7ap2uQBCG",
+  "_key": "!items!gaeGP7i7ap2uQBCG"
+}

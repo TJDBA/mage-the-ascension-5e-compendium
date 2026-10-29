@@ -1,0 +1,20 @@
+{
+  "name": "Sleeper Bane",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●) Mundane humans are your downfall. Sleepers count as having rolled 1success more with any successful attack against you and your mystical methods of reducing the damage reduce it by 1 less.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "xFB9chokGB2LVxG2",
+  "_key": "!items!xFB9chokGB2LVxG2"
+}

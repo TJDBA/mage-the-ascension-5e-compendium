@@ -1,0 +1,20 @@
+{
+  "name": "Haunted",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) A wraith plagues you for some reason and makes your life hell. It can possess you or people you know, slam doors, twist your dreams, and throw things around. ===PAGE 64=== 6 4 Characters</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "BgRfooJbSFtImH1O",
+  "_key": "!items!BgRfooJbSFtImH1O"
+}

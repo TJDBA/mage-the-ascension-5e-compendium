@@ -1,0 +1,20 @@
+{
+  "name": "Beast Affinity",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>Animals are unusually drawn to you, although you can’t speak to them you can communicate on a limited level based on body language and tone.</p><p>●\tBeast Affinity: One specifictype of animal is affected (i.e.Crows).</p><p>●●\tBeast Kinship: One specificgroup of animals is affected (i.e. Birds).</p><p>●●●\tBeast Mastery: All natural animals are affected.</p><p>●●●●●\tUnnatural Beast Mastery: Even supernatural animals are affected by your aura, although it only covers non-sapient creatures.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "eMePmAszwFQoyX16",
+  "_key": "!items!eMePmAszwFQoyX16"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Quickening",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●●\tQuickening: You can maintain 1 extra spell per penalty over normal before increasing your penalty.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "VXtPEl4Nvo1FeYU3",
+  "_key": "!items!VXtPEl4Nvo1FeYU3"
+}

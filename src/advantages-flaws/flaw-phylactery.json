@@ -1,0 +1,20 @@
+{
+  "name": "Phylactery",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) Your avatar is trapped and sealed in an object for some reason. You may only cast spells when this object is on your immediate person.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "sQFa7B8XaFTrS6Nh",
+  "_key": "!items!sQFa7B8XaFTrS6Nh"
+}

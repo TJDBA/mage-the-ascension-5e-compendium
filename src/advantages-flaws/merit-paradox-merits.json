@@ -1,0 +1,20 @@
+{
+  "name": "Paradox Merits",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●\tParadox Magnet: Whenever someone gains Paradox nearby you may spend a number of Willpower points to gain that many Paradox instead of the target. You may use this a maximum of once per story.</p><p>●●\tParadoxical Dispersal: Whenever you lose Paradox without Backlashing you lose an extra point of paradox for each 10 rolled.</p><p>●●●\tFeel The Burn: Whenever someone suffers Burn nearby you may spend a number of Willpower points to take that much Burn instead of the target. You may use this a maximum of once per story.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "42KWNCRBVldpvRGT",
+  "_key": "!items!42KWNCRBVldpvRGT"
+}

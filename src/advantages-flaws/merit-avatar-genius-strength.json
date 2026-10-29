@@ -1,0 +1,20 @@
+{
+  "name": "Avatar/Genius Strength",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●●●●\tBrutal Avatar: +1 to your Spellcasting rolls. All rolls to counterspell your magic gain 2 dice provided they are capable of counterspelling.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "5cRf3qerNMkSv9qN",
+  "_key": "!items!5cRf3qerNMkSv9qN"
+}

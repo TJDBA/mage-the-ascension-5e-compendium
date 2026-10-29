@@ -1,0 +1,20 @@
+{
+  "name": "Retainers",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>• Underwhelming retainer: A child, criminal low-life, or horror nerd follows you around and does your bidding without a Blood Bond. Build them as a Weak mortal.</p><p>•• A ghoul, a family servant, a human lover, or a dominated thrall: give them a backstory. Build them as an Average mortal or as a ghoul with no Advantages. For more on Ghouls, see p. 234.</p><p>••• A retainer competent enough to act independently and make lesser problems go away. They are likely a ghoul with traits equivalent to Gifted mortals, on top of their supernatural abilities</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "NPN49cy8pUkQsRGA",
+  "_key": "!items!NPN49cy8pUkQsRGA"
+}

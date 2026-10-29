@@ -1,0 +1,20 @@
+{
+  "name": "Lifesaver",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "WrwpFMOakGir7hwS",
+  "system": {
+    "description": "<p>(●●●) You refuse to kill under even the most significant or dire of circumstances, or work directly with people who do. When you or your allies kill another human or partly human, being permanently lose 1 point of Willpower until the end of the chronicle. The storyteller may rule that excessive torture or similar will count for this too.</p>",
+    "featuretype": "flaw",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "zSgvMcf84QSH2a33",
+  "_key": "!items!zSgvMcf84QSH2a33"
+}

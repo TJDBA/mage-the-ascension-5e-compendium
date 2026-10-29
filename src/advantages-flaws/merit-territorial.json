@@ -1,0 +1,20 @@
+{
+  "name": "Territorial",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●\tStomping Ground: You know your domain (no more than a half dozen city blocks) like the back of your hand. Roll one more die any time you roll for any test related to local knowledge.</p><p>●●●\tMy City: Cab drivers come to you for directions. In your domain (up to the size of a major city) you gain an automatic success in addition to your roll anytime you roll for a test related to local knowledge.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "5XaYGO4TVhChPG63",
+  "_key": "!items!5XaYGO4TVhChPG63"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Faith",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>●●●●●\tTrue Faith: You have a burning faith in something divine. This faith protects and fills you. You start with 1 dot of True Faith. You gain a number of advantages: When attacking anything deemed truly evil or tainted a number of your damage points equal to your True Faith may not be reduced by armor or innate abilities belonging to the creature in any way. You have a number of additional points of armor that count against direct mystic attacks, torture, or other thematic sources of damage equal to your True Faith. True Faith may be spent for the same benefits as a point of willpower. True faith can be spent to act as though you had the Life Sphere (equal to your current True Faith value) for the purposes of benevolent healing of good creatures. However True Faith also demands a very strict adherence to a very inflexible moral code and those who act against people not covered by their code or who act outside of the code find their True Faith abilities temporarily or permanently disappear.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "EUEKONqCbQ230QEk",
+  "_key": "!items!EUEKONqCbQ230QEk"
+}

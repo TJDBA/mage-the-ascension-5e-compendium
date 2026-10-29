@@ -1,0 +1,20 @@
+{
+  "name": "Archaic",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "Xb7XC58W2jueDw6J",
+  "system": {
+    "description": "<p>Only ancillae or older vampires may take either of these Flaws.</p><p></p><p>You haven’t grasped the modern mindset, or you just don’t want to. You have one or more seriously outdated Convictions, e.g. “The Pope’s word is law,” “Women are delicate flowers,” “Lower classes exist only to serve,” or “Burn your enemies’ baggage.” These archaic moralities maintain your Humanity but are odious to many; you lose one die from Social test dice pools involving such archaic beliefs except with vampires your age and older, who may admire your steadfast virtue.</p><p>Only ancillae or older vampires may take either of these Flaws</p><p></p><p>You haven’t been able to adapt to the present, or you have been long in torpor. You cannot use computers or cell phones, and your Technology rating is permanently 0. The Storyteller may penalize other dice pools involving very modern technology by one die.</p>",
+    "featuretype": "merit",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "Gw6fMTKDA3feFuu4",
+  "_key": "!items!Gw6fMTKDA3feFuu4"
+}

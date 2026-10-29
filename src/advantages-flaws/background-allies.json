@@ -1,0 +1,20 @@
+{
+  "name": "Allies",
+  "type": "feature",
+  "img": "icons/svg/book.svg",
+  "folder": "MfPpkfqzdsiNkoeG",
+  "system": {
+    "description": "<p>• Weak individual, probably useless in a violent or potentially violent situation.</p><p>•• Average individual or a tight-knit group of Weak individuals (capricious dockworkers, a poorly organized union, NGO chapter)</p><p>••• Gifted individual or a dangerous group of Average individuals (a street gang, a celebrity entourage, a well-organized blue-collar union local)</p><p>•••• Superlative individual, a Gifted individual potentially with supernatural powers, or a well-armed group of Gifted individuals (a private security squad, a contingent of lawyers, a team of trained athletes)</p><p>No dots: The ally cannot be called upon at will but will assist you when they are in the vicinity.</p><p>• When you call on them, they appear half the time.</p><p>•• When you call on them, they appear within 1–10 hours (roll a die).</p><p>••• When you call on them, they appear as soon as possible.</p>",
+    "featuretype": "background",
+    "bonuses": [],
+    "uses": {
+      "max": 0,
+      "current": 0,
+      "enabled": false
+    },
+    "points": 0,
+    "macroid": ""
+  },
+  "_id": "ClI6V9KEQGE8eQoP",
+  "_key": "!items!ClI6V9KEQGE8eQoP"
+}
