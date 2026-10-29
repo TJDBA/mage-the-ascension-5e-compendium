@@ -7,6 +7,7 @@
     "description": "<p>You can directly damage spirits at this rank.</p>",
     "level": 3,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

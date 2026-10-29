@@ -7,6 +7,7 @@
     "description": "<p>Allows the mage to generate a paused spell that can be triggered based on an input under the purview of a sphere.</p>",
     "level": 4,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

@@ -7,6 +7,7 @@
     "description": "<h3>Effects</h3><p><strong>Intimate Knowledge:</strong> Generally, effects that can be done to other people can be done to the mage by themselves at 1 sphere rank lower than usual due to their innate knowledge of their own pattern and self.</p><p><strong>Heal:</strong> From level 2 onwards the caster starts to heal at a cost of 1 success spent on potency per superficial damage and 2 (and 1 quintessence) per aggravated.</p>",
     "level": 0,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

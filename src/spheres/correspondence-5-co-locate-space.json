@@ -7,6 +7,7 @@
     "description": "<p>The mage can now merge chunks of space together allowing buildings be in multiple places at once or overlaying one city upon another. This creates all sorts of issues.</p>",
     "level": 5,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

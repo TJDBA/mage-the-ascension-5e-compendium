@@ -7,6 +7,7 @@
     "description": "<p>With adjacent Spheres of Life or Matter, they can draw small lifeforms or objects through space.</p>",
     "level": 2,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

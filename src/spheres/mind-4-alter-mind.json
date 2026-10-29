@@ -7,6 +7,7 @@
     "description": "<p>The mage may alter the targets memories by overwriting them and can also plant suggestions and commands.</p>",
     "level": 4,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

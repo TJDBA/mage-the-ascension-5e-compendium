@@ -7,6 +7,7 @@
     "description": "<p>Shape objects into ones with multiple different pieces and materials or vice versa.</p>",
     "level": 4,
     "sphere": "matter",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "80"

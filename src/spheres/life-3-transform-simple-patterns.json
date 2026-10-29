@@ -7,6 +7,7 @@
     "description": "<p>The mage can transform simple life forms into others, transforming i.e. a snail into a turnip.</p>",
     "level": 3,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

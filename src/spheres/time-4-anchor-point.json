@@ -7,6 +7,7 @@
     "description": "<p>Allow the mage to create an anchor point in time allowing them to find their way back to 'their' present with much more ease.</p>",
     "level": 4,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

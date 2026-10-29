@@ -7,6 +7,7 @@
     "description": "<p>The mage plants a plausible impulse or minor belief in a target’s mind, nudging them toward a choice they could believably have made themselves. Rank 3 influences another’s thoughts and emotions directly. Overt or implausible commands strain belief and risk Paradox or resistance.</p><p><strong>Dice Pool:</strong> Manipulation + Subterfuge (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Mind 3; mechanics paraphrased.</em></p>",
     "level": 3,
     "sphere": "mind",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

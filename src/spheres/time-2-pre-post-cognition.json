@@ -7,6 +7,7 @@
     "description": "<p>Allows you to see backwards and forwards in time. The impressions are hazy, not entirely accurate, and bound by the limitations of the time and place (what a bystander could perceive under the circumstances).</p>",
     "level": 2,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

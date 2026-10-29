@@ -7,6 +7,7 @@
     "description": "<h3>Effects</h3><p><strong>Combining:</strong> When using correspondence combined with other spheres as a means of extending the range of those spheres effects the rank of the mage's correspondence acts as a limit to the maximum rank of any other sphere being utilized in the spell. You cannot conjure fire at a distance if you only have correspondence 2 as conjuring is a rank 3 effect, at best you could manipulate fire at rank 2.</p><p><strong>Pattern Effects:</strong> Correspondence can only affect whole patterns, not parts of patterns (unless another sphere is combined that can provide that effect).</p><p><strong>Physical Proximity:</strong> When using Correspondence to teleport the mage can teleport objects and beings they are physically touching without restriction but to do it at a distance they need the appropriate sphere for the pattern.</p>",
     "level": 0,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

@@ -7,6 +7,7 @@
     "description": "<p>The mage can alter their Pattern in small ways. They may change the color of their hair, enhance their eyesight, grow clawlike fingernails or suspend their need to breathe oxygen for several hours. They may add even dots to physical attributes.</p>",
     "level": 3,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

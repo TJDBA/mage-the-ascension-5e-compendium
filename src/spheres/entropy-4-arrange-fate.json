@@ -7,6 +7,7 @@
     "description": "<p>You can attempt to arrange for events to happen. The likelihood of the event should represent the base difficulty and the wider the scope and longer the time given for the affect should make it easier, and the inverse harder.</p>",
     "level": 4,
     "sphere": "entropy",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "77"

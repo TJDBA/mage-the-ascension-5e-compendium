@@ -7,6 +7,7 @@
     "description": "<p>The mage can alter complex Life Patterns of vertebrates, possibly inflicting serious damages or enhancing their natural capabilities.</p>",
     "level": 4,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

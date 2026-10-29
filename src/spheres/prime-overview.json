@@ -7,6 +7,7 @@
     "description": "<h3>Effects</h3><p><strong>Prime Energy:</strong> Mages skilled in the prime sphere (anything of rank 2 or above) can be easier to spot by mystic means as their connection to the Tapestry is unique and more easily picked up on.</p><p><strong>Limits:</strong> Although Prime is a powerful sphere it relies on other spheres to shape things into being.</p>",
     "level": 0,
     "sphere": "prime",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

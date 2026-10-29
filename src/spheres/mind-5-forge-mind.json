@@ -7,6 +7,7 @@
     "description": "<p>You can create a mind from nowhere, although you would still need other spheres to anchor and instantiate it.</p>",
     "level": 5,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

@@ -7,6 +7,7 @@
     "description": "<p>By bending the limits of what materials are capable of you can make materials only possible by magic and beyond the scope of modern science. Incredibly atom perfect polymers and alloys without a single flaw and materials hardened by interwoven layers of elements of different states and structures.</p>",
     "level": 5,
     "sphere": "matter",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "80"

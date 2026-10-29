@@ -7,6 +7,7 @@
     "description": "<p>You can step from one side of the Gauntlet to the Gauntlet or back.</p>",
     "level": 3,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

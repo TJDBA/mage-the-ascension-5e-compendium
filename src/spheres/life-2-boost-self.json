@@ -7,6 +7,7 @@
     "description": "<p>You may alter your physique adding or subtracting up to 1 dot of any physical attributes.</p>",
     "level": 2,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

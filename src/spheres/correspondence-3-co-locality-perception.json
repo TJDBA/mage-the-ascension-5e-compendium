@@ -7,6 +7,7 @@
     "description": "<p>You can split your senses over multiple locations allowing you to perceive multiple locations. However, without Mind 1 or possibly 2 (or similar) perceiving all at once would overwhelm a normal mind.</p>",
     "level": 3,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

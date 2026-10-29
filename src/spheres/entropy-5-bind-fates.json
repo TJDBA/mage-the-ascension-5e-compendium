@@ -7,6 +7,7 @@
     "description": "<p>The mage can tie the fates of people, objects, or events together. Making it possible for people to repeatedly meet, never manage to get rid of an item, or similar.</p>",
     "level": 5,
     "sphere": "entropy",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "77"

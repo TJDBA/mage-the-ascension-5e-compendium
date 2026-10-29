@@ -7,6 +7,7 @@
     "description": "<p>You can now teleport yourself and huge objects including buildings and city blocks – similarly to Teleport. You can teleport anywhere in the globe.</p>",
     "level": 5,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

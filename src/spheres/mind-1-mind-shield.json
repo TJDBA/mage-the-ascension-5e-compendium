@@ -7,6 +7,7 @@
     "description": "<p>You can bolster your defenses against mental attacks or manipulation.</p>",
     "level": 1,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

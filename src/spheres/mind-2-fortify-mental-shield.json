@@ -7,6 +7,7 @@
     "description": "<p>You can strengthen your mental defenses making it harder for Mind effects to be used on you.</p>",
     "level": 2,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

@@ -7,6 +7,7 @@
     "description": "<p>The mage can sense the potency of a Life Pattern, measuring its relative health and well-being, as well as basic information (age, sex etc.)</p>",
     "level": 1,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

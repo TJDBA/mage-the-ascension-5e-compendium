@@ -7,6 +7,7 @@
     "description": "<p>The mage knows information about material objects and may be treated as a specialist in their design or may recreate them using higher rank matter spells.</p>",
     "level": 1,
     "sphere": "matter",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "80"

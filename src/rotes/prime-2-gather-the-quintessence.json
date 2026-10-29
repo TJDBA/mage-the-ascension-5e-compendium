@@ -7,6 +7,7 @@
     "description": "<p>The mage perceives the flows of raw magical energy and draws Quintessence from a Node, Tass, or resonant place into their own pattern. Rank 1 senses Prime energy; rank 2 channels and stores it. The gathered Quintessence fuels later magick and can push effects beyond ordinary limits.</p><p><strong>Dice Pool:</strong> Perception + Occult (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Prime 2; mechanics paraphrased.</em></p>",
     "level": 2,
     "sphere": "prime",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

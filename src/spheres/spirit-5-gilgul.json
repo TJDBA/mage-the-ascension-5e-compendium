@@ -7,6 +7,7 @@
     "description": "<p>The mage can affect and attack other mage's avatars.</p>",
     "level": 5,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

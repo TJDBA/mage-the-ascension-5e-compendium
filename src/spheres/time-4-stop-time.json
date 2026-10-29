@@ -7,6 +7,7 @@
     "description": "<p>Allows a mage to stop time in its tracks.</p>",
     "level": 4,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

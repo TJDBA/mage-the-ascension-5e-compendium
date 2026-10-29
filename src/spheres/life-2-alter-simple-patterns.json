@@ -7,6 +7,7 @@
     "description": "<p>The mage can influence simple life forms, like fungi, invertebrates, or plants.</p>",
     "level": 2,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

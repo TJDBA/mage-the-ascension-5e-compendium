@@ -7,6 +7,7 @@
     "description": "<p>The mage can attack a person's mind and force them to experience emotions, thoughts, ideas and torment. This causes the target to take willpower damage.</p>",
     "level": 3,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

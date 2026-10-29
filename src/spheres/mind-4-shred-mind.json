@@ -7,6 +7,7 @@
     "description": "<p>The mage can attack a person's mind directly, shredding their very concept of self and identity.</p>",
     "level": 4,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

@@ -7,6 +7,7 @@
     "description": "<p>The mage reads the temporal echoes of a place or object, witnessing events that happened there in the past. At rank 1 the caster senses the flow of time; rank 2 perceives past moments tied to the location. Clarity and how far back the vision reaches scale with successes.</p><p><strong>Dice Pool:</strong> Perception + Investigation (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Time 2; mechanics paraphrased.</em></p>",
     "level": 2,
     "sphere": "time",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

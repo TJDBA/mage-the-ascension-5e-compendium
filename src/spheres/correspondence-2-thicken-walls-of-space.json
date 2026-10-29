@@ -7,6 +7,7 @@
     "description": "<p>You may thicken the walls of space making it harder for space to be manipulated or cover space manipulations.</p>",
     "level": 2,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

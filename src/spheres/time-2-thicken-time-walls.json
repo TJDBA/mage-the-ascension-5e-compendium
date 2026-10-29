@@ -7,6 +7,7 @@
     "description": "<p>You may thicken the walls of time making it harder for time to be manipulated in the vicinity.</p>",
     "level": 2,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

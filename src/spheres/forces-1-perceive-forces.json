@@ -7,6 +7,7 @@
     "description": "<p>The mage becomes privy to Forces patterns around them, transcending the limits of human sensory organs.</p>",
     "level": 1,
     "sphere": "forces",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "78"

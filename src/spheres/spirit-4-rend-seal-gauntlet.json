@@ -7,6 +7,7 @@
     "description": "<p>You can make rifts into and out of the Gauntlet or collapse them.</p>",
     "level": 4,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

@@ -7,6 +7,7 @@
     "description": "<p>The mage can travel in time.</p>",
     "level": 5,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

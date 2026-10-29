@@ -7,6 +7,7 @@
     "description": "<p>You know the exact odds of obvious chance games (card games etc.) and the approximate odds of more esoteric events (such as a yellow car passing by in the next minute).</p>",
     "level": 1,
     "sphere": "entropy",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "77"

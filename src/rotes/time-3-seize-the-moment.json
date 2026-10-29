@@ -7,6 +7,7 @@
     "description": "<p>The mage accelerates their own perception and action within time, gaining extra speed or an additional action as the world seems to slow around them. Rank 3 lets the caster alter the local flow of time for themselves. In play this grants bonus actions or initiative for a short burst.</p><p><strong>Dice Pool:</strong> Wits + Athletics (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Time 3; mechanics paraphrased.</em></p>",
     "level": 3,
     "sphere": "time",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

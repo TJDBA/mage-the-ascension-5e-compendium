@@ -7,6 +7,7 @@
     "description": "<p>You can now untether your mind from your body allowing limitless projection.</p>",
     "level": 5,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

@@ -7,6 +7,7 @@
     "description": "<p>You can read the surface or strong emotions of a target. You can also use this more crudely to detect consciousness nearby allowing you to sense people nearby via any strong emotions.</p>",
     "level": 1,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

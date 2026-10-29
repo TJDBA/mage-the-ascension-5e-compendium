@@ -7,6 +7,7 @@
     "description": "<p>The mage is now able to strongly influence probability allowing them to push or pull events to suit their needs within reason. They can also guarantee the outcomes of games of chance.</p>",
     "level": 3,
     "sphere": "entropy",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "77"

@@ -7,6 +7,7 @@
     "description": "<p>The mage can summon and shape the material of the spirit realm as they see fit creating new realms or healing spirits.</p>",
     "level": 5,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

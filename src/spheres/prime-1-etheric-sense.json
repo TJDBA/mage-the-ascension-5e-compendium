@@ -7,6 +7,7 @@
     "description": "<p>The mage can perceive quintessential energy, and can perceive when someone uses magic in their vicinity.</p>",
     "level": 1,
     "sphere": "prime",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

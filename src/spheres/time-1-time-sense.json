@@ -7,6 +7,7 @@
     "description": "<p>You always know what time it is exactly and are aware of distortions of local time.</p>",
     "level": 1,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

@@ -7,6 +7,7 @@
     "description": "<p>Allows the mage to rewind time up to the duration of a scene.</p>",
     "level": 3,
     "sphere": "time",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "83"

@@ -7,6 +7,7 @@
     "description": "<p>The mage can transform their own pattern, allowing them to assume the shape of an animal of similar size or mass or transform their physical features to resemble another human.</p>",
     "level": 4,
     "sphere": "life",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "79"

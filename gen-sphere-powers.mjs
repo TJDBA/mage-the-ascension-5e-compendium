@@ -87,6 +87,7 @@ for (const sphere of SPHERES) {
     type: 'Item',
     folder: null,
     sorting: 'm',
+    sort: (SPHERES.indexOf(sphere) + 1) * 100000,
     _id: sphereFolderId,
     _key: `!folders!${sphereFolderId}`
   })
@@ -104,6 +105,7 @@ for (const sphere of SPHERES) {
       description: intro || `<p>${sphereName}</p>`,
       level: 0,
       sphere,
+      isRote: false,
       source
     },
     _id: anchorId,
@@ -122,6 +124,7 @@ for (const sphere of SPHERES) {
       type: 'Item',
       folder: sphereFolderId,
       sorting: 'm',
+      sort: lvl * 100000,
       _id: levelFolderId,
       _key: `!folders!${levelFolderId}`
     })
@@ -137,6 +140,7 @@ for (const sphere of SPHERES) {
           description: `<p>${ab.text}</p>`,
           level: lvl,
           sphere,
+          isRote: false,
           source
         },
         _id: abId,

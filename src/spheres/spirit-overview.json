@@ -7,6 +7,7 @@
     "description": "<h3>Effects</h3><p><strong>Gauntlet:</strong> Spirit Sphere magick traffics in the hidden side of the natural realm. As a result, its Effects typically use the Gauntlet Ratings to determine the difficulty of their associated rolls: An node might be 2, an urban alley 3 or 4, whereas a sterile lab environment might go as high as 6 (or 2 for Dimensional Science).</p>",
     "level": 0,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

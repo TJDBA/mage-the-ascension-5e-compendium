@@ -7,6 +7,7 @@
     "description": "<p>Allows the mage extend to their senses beyond their current location.</p>",
     "level": 2,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

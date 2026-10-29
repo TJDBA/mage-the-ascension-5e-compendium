@@ -7,6 +7,7 @@
     "description": "<p>You can reshape objects as you will although they must still generally be one piece or homogenous.</p>",
     "level": 3,
     "sphere": "matter",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "80"

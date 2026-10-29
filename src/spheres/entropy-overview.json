@@ -7,6 +7,7 @@
     "description": "<h3>Effects</h3><p><strong>Sleepers and Pattern Locks:</strong> Sleepers are especially vulnerable to disorder and order and do not have the innate protection that mages and many supernatural creatures gain from their awareness of the world. Most entropy spells used on sleepers or objects, events, or items that are not innately magical do not need a pattern sphere to lock to. This means that Entropy 4 could cause a person to be curse to stand on rakes forever without needing Life to 'lock' it to the person.</p>",
     "level": 0,
     "sphere": "entropy",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "77"

@@ -7,6 +7,7 @@
     "description": "<p>The mage may order and control another human to do actions. With enough successes the person might even rationalize it as their own choice as they 'own' the action to resist the concept that their mind was under someone else's control.</p>",
     "level": 4,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

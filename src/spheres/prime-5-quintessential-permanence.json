@@ -7,6 +7,7 @@
     "description": "<p>Make enchantments permanent.</p>",
     "level": 5,
     "sphere": "prime",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

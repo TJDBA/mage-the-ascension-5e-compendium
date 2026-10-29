@@ -7,6 +7,7 @@
     "description": "<p>Create small pockets of space divorced from normal space. These eventually merge back but can be used with auxiliary spheres to seal patterns into their own realms.</p>",
     "level": 4,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"

@@ -7,6 +7,7 @@
     "description": "<p>The mage can affect small things on the other side of the Gauntlet.</p>",
     "level": 2,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

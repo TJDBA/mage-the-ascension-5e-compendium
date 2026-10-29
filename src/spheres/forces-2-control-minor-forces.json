@@ -7,6 +7,7 @@
     "description": "<p>The mage can alter existing forces within sensory range. Applications are varied and allow a mage to warp light to make things invisible, change their colors by altering the spectrum of localized light, render them silent by bending sound waves in their vicinity, and manipulate currents of electricity, make fires dance according to specific images and spread.</p>",
     "level": 2,
     "sphere": "forces",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "78"

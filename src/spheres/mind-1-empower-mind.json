@@ -7,6 +7,7 @@
     "description": "<p>You can empower you mind increasing the speed at which you process mental tasks or even allowing you to add 1 dot in any 1 mental attribute.</p>",
     "level": 1,
     "sphere": "mind",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "81"

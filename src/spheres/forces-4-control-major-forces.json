@@ -7,6 +7,7 @@
     "description": "<p>The mage can manipulate Forces patterns on a wider scale, allowing them to use former effect on more than one Pattern. This allows them to change the weather, insulate a whole building or area of forest from fire and electricity, divert light into a series of rooms, banish all sounds from a huge cavern, or render a Chantry invisible to normal sight.</p>",
     "level": 4,
     "sphere": "forces",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "78"

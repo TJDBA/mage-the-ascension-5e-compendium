@@ -7,6 +7,7 @@
     "description": "<p>The mage perceives and senses locations at a distance, viewing a remote space as though standing there. By attuning to a known or sympathetically linked place, the caster opens a sensory window to observe events happening elsewhere. Higher successes extend range and clarity of the remote viewing.</p><p><strong>Dice Pool:</strong> Perception + Awareness (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Correspondence sense effects; mechanics paraphrased.</em></p>",
     "level": 2,
     "sphere": "correspondence",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

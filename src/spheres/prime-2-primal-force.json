@@ -7,6 +7,7 @@
     "description": "<p>Allows disruption of patterns to cause damage on a primal level to the target.</p>",
     "level": 2,
     "sphere": "prime",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

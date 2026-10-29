@@ -27,6 +27,8 @@ function slug (s) {
 }
 function cap (s) { return s.charAt(0).toUpperCase() + s.slice(1) }
 
+const SPHERE_ORDER = ['correspondence', 'entropy', 'forces', 'life', 'matter', 'mind', 'prime', 'spirit', 'time']
+
 // Researched sample rotes (M20/Revised adapted to M5; Storytellers Vault paraphrase).
 const ROTES = [
   { name: 'The Spirit\u2019s Touch', sphere: 'correspondence', level: 2, dicepool: 'Perception + Awareness', description: 'The mage perceives and senses locations at a distance, viewing a remote space as though standing there. By attuning to a known or sympathetically linked place, the caster opens a sensory window to observe events happening elsewhere. Higher successes extend range and clarity of the remote viewing.', source: 'Adapted to M5 from M20 Correspondence sense effects; mechanics paraphrased.' },
@@ -59,14 +61,14 @@ for (const r of ROTES) {
   if (!sphereFolderIds[r.sphere]) {
     const id = detId(`folder/rote/${r.sphere}`)
     sphereFolderIds[r.sphere] = id
-    folders.push({ name: cap(r.sphere), type: 'Item', folder: null, sorting: 'm', _id: id, _key: `!folders!${id}` })
+    folders.push({ name: cap(r.sphere), type: 'Item', folder: null, sorting: 'm', sort: (SPHERE_ORDER.indexOf(r.sphere) + 1) * 100000, _id: id, _key: `!folders!${id}` })
   }
   // Level subfolder (one per sphere+level present)
   const lvlKey = `${r.sphere}-${r.level}`
   if (!levelFolderIds[lvlKey]) {
     const id = detId(`folder/rote/${r.sphere}/level-${r.level}`)
     levelFolderIds[lvlKey] = id
-    folders.push({ name: `Level ${r.level}`, type: 'Item', folder: sphereFolderIds[r.sphere], sorting: 'm', _id: id, _key: `!folders!${id}` })
+    folders.push({ name: `Level ${r.level}`, type: 'Item', folder: sphereFolderIds[r.sphere], sorting: 'm', sort: r.level * 100000, _id: id, _key: `!folders!${id}` })
   }
 
   const id = detId(`rotes/${r.sphere}/${r.level}/${r.name}`)
@@ -80,6 +82,7 @@ for (const r of ROTES) {
       description: desc,
       level: r.level,
       sphere: r.sphere,
+      isRote: true,
       source: { book: 'M5 (adapted from M20)', page: '' }
     },
     _id: id,

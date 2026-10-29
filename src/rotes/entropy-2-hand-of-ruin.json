@@ -7,6 +7,7 @@
     "description": "<p>The mage accelerates decay in an object, causing rope to fray, metal to rust, or a lock mechanism to seize and crumble. The effect targets non-living matter, hastening natural entropy to a chosen failure point. Successes determine how quickly and completely the target degrades.</p><p><strong>Dice Pool:</strong> Wits + Occult (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Entropy 2; mechanics paraphrased.</em></p>",
     "level": 2,
     "sphere": "entropy",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

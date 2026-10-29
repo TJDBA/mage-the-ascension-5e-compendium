@@ -7,6 +7,7 @@
     "description": "<p>Allows the mage to see the unique resonance of each and every pattern and differentiate between them and the imprints they leave.</p>",
     "level": 4,
     "sphere": "prime",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

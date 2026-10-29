@@ -7,6 +7,7 @@
     "description": "<p>The mage reshapes inanimate matter, changing an object’s form, density, or composition, such as softening a steel bar or turning a key blank into a working key. Rank 2 alters properties; rank 3 transmutes one material into another. Successes govern how drastic and lasting the change is.</p><p><strong>Dice Pool:</strong> Intelligence + Crafts (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Matter 3; mechanics paraphrased.</em></p>",
     "level": 3,
     "sphere": "matter",
+    "isRote": true,
     "source": {
       "book": "M5 (adapted from M20)",
       "page": ""

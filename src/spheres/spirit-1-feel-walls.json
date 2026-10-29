@@ -7,6 +7,7 @@
     "description": "<p>You can sense strong impressions left in a place from powerful emotional events.</p>",
     "level": 1,
     "sphere": "spirit",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

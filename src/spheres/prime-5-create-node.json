@@ -7,6 +7,7 @@
     "description": "<p>Create a permanent node.</p>",
     "level": 5,
     "sphere": "prime",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "82"

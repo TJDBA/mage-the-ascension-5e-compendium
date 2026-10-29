@@ -7,6 +7,7 @@
     "description": "<p>Basic spatial understanding allows a mage to sense things in her immediate vicinity even if she can't perceive them with her normal senses such as warps, anomalies, wormholes, etc. – especially the ones caused by other Correspondence Effects.</p>",
     "level": 1,
     "sphere": "correspondence",
+    "isRote": false,
     "source": {
       "book": "M5 Mage the Ascension",
       "page": "76"
