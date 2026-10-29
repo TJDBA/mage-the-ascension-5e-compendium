@@ -1,0 +1,17 @@
+{
+  "name": "Alter Fundamental Properties",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "NatLbLE5fVAYWxOQ",
+  "system": {
+    "description": "<p>The mage can now alter the fundamental properties of patterns and materials making water that isn't wet, iron that isn't magnetic, or making wood that doesn't burn.</p>",
+    "level": 4,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "peDJXl3G5Y5UeBay",
+  "_key": "!items!peDJXl3G5Y5UeBay"
+}

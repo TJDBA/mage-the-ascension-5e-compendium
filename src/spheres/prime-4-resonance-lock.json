@@ -1,0 +1,17 @@
+{
+  "name": "Resonance Lock",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "NatLbLE5fVAYWxOQ",
+  "system": {
+    "description": "<p>Allows the mage to see the unique resonance of each and every pattern and differentiate between them and the imprints they leave.</p>",
+    "level": 4,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "RJq3DjDCd2ZbyAQp",
+  "_key": "!items!RJq3DjDCd2ZbyAQp"
+}

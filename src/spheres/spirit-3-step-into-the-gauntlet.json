@@ -1,0 +1,17 @@
+{
+  "name": "Step Into the Gauntlet",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "vyqGuj0cAOWIiD4X",
+  "system": {
+    "description": "<p>You can step from one side of the Gauntlet to the Gauntlet or back.</p>",
+    "level": 3,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "ySL1koaUD63cJDXQ",
+  "_key": "!items!ySL1koaUD63cJDXQ"
+}

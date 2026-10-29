@@ -1,0 +1,17 @@
+{
+  "name": "Thicken Time Walls",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "EgOZIJ7qcXIkOcCA",
+  "system": {
+    "description": "<p>You may thicken the walls of time making it harder for time to be manipulated in the vicinity.</p>",
+    "level": 2,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "fyFcaHnHwaz7wZxK",
+  "_key": "!items!fyFcaHnHwaz7wZxK"
+}

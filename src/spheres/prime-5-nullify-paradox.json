@@ -1,0 +1,17 @@
+{
+  "name": "Nullify Paradox",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "8bCb1gVr2selpipE",
+  "system": {
+    "description": "<p>Remove temporary paradox.</p>",
+    "level": 5,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "LPxJNSBApxdNBA3x",
+  "_key": "!items!LPxJNSBApxdNBA3x"
+}

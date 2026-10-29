@@ -1,0 +1,17 @@
+{
+  "name": "Complex Transformation",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-matter.svg",
+  "folder": "OzKtBQvzqQwW4DEb",
+  "system": {
+    "description": "<p>Shape objects into ones with multiple different pieces and materials or vice versa.</p>",
+    "level": 4,
+    "sphere": "matter",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "80"
+    }
+  },
+  "_id": "U7BSm0Vnbef1NJa6",
+  "_key": "!items!U7BSm0Vnbef1NJa6"
+}

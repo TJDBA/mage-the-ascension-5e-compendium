@@ -1,0 +1,17 @@
+{
+  "name": "Control Minor Forces",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "AQAJs43HwNK6wtEH",
+  "system": {
+    "description": "<p>The mage can alter existing forces within sensory range. Applications are varied and allow a mage to warp light to make things invisible, change their colors by altering the spectrum of localized light, render them silent by bending sound waves in their vicinity, and manipulate currents of electricity, make fires dance according to specific images and spread.</p>",
+    "level": 2,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "78"
+    }
+  },
+  "_id": "udGBhslAaMmUivbc",
+  "_key": "!items!udGBhslAaMmUivbc"
+}

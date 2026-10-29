@@ -1,0 +1,17 @@
+{
+  "name": "Control Mind",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "QV0FFnckHS2nUP5H",
+  "system": {
+    "description": "<p>The mage may order and control another human to do actions. With enough successes the person might even rationalize it as their own choice as they 'own' the action to resist the concept that their mind was under someone else's control.</p>",
+    "level": 4,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "ia4PP8ACnXgFDyYO",
+  "_key": "!items!ia4PP8ACnXgFDyYO"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Oath",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "3Mi96SxHJrCGBFZD",
+  "system": {
+    "description": "<p>Fates are now capable of creating and binding oaths to people as triggers for spells. As part of a spell, you may use an oath as a trigger. If someone, knowingly makes an oath or gives you their word, knowing they are making an Oath then they are considering bound and breaking that oath (from the standpoint of an informed, reasoned, average person's viewpoint in the local consensus) will cause the spell to take effect. Oaths accepted without knowing the result if they break it increase the difficulty by 1.</p>",
+    "level": 5,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "BDccY5q24S1LNhf2",
+  "_key": "!items!BDccY5q24S1LNhf2"
+}

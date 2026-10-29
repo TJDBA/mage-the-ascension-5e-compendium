@@ -1,0 +1,17 @@
+{
+  "name": "Read Surface Thoughts",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "p7zGFpcjVk4Vvthe",
+  "system": {
+    "description": "<p>Allows a mage to skim the surface contents of another's mind.</p>",
+    "level": 2,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "H1P8taAFfDCU1MYm",
+  "_key": "!items!H1P8taAFfDCU1MYm"
+}

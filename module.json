@@ -38,13 +38,21 @@
       "type": "Item",
       "system": "wod5e-mta",
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "rotes",
+      "label": "Rotes",
+      "path": "packs/rotes",
+      "type": "Item",
+      "system": "wod5e-mta",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     }
   ],
   "packFolders": [
     {
       "name": "Mage the Ascension",
       "sorting": "m",
-      "packs": ["spheres", "factions"]
+      "packs": ["spheres", "rotes", "factions"]
     }
   ],
   "styles": ["styles/mage-compendium.css"],

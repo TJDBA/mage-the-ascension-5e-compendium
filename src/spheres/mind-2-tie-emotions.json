@@ -1,0 +1,17 @@
+{
+  "name": "Tie Emotions",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "p7zGFpcjVk4Vvthe",
+  "system": {
+    "description": "<p>Establish a link between people allowing them to share basic strong emotions.</p>",
+    "level": 2,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "h2zwnfLBAqbXse2u",
+  "_key": "!items!h2zwnfLBAqbXse2u"
+}

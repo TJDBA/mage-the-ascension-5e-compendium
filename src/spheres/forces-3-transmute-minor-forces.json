@@ -1,0 +1,17 @@
+{
+  "name": "Transmute Minor Forces",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "HPbx8GoyzuCnWiFC",
+  "system": {
+    "description": "<p>The mage can manipulate Patterns of Forces, allowing them to convert forces into other types, or even shift their intensity radically.</p>",
+    "level": 3,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "78"
+    }
+  },
+  "_id": "mjYFCoqywtaEmeCI",
+  "_key": "!items!mjYFCoqywtaEmeCI"
+}

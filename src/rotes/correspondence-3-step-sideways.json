@@ -1,0 +1,17 @@
+{
+  "name": "Step Sideways",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "UICUsIkGi6B8RkMv",
+  "system": {
+    "description": "<p>The mage folds the distance between two points and steps instantly from one to the other. The caster must have perceived or be sympathetically connected to the destination. In play this is a short teleport; coincidental casting favors unseen departures and arrivals.</p><p><strong>Dice Pool:</strong> Dexterity + Athletics (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Correspondence 3; mechanics paraphrased.</em></p>",
+    "level": 3,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "g3KbXxXuNiXjzZFe",
+  "_key": "!items!g3KbXxXuNiXjzZFe"
+}

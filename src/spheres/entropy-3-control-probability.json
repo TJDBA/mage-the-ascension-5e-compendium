@@ -1,0 +1,17 @@
+{
+  "name": "Control Probability",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "9nlndwf1DkRcoi3E",
+  "system": {
+    "description": "<p>The mage is now able to strongly influence probability allowing them to push or pull events to suit their needs within reason. They can also guarantee the outcomes of games of chance.</p>",
+    "level": 3,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "fG1G23hlRUkGvloK",
+  "_key": "!items!fG1G23hlRUkGvloK"
+}

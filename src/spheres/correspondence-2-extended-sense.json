@@ -1,0 +1,17 @@
+{
+  "name": "Extended Sense",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "uld7SKqDIV9FLBwk",
+  "system": {
+    "description": "<p>Allows the mage extend to their senses beyond their current location.</p>",
+    "level": 2,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "Ph8ERH5fcoPhKurs",
+  "_key": "!items!Ph8ERH5fcoPhKurs"
+}

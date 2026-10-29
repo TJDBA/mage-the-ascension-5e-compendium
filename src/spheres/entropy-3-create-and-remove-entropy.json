@@ -1,0 +1,17 @@
+{
+  "name": "Create and Remove Entropy",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "9nlndwf1DkRcoi3E",
+  "system": {
+    "description": "<p>At this level you can increase of remove entropy from predictable patterns such as making a car never break down, or break down constantly.</p>",
+    "level": 3,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "hlQENI3MAAIyKQN2",
+  "_key": "!items!hlQENI3MAAIyKQN2"
+}

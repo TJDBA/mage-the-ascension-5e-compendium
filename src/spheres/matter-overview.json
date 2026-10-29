@@ -1,0 +1,17 @@
+{
+  "name": "Matter (Overview)",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-matter.svg",
+  "folder": "Ci9BM69ngOaQhaYR",
+  "system": {
+    "description": "<h3>Effects</h3><p><strong>Radioactive Science:</strong> Due to the current consensus, radioactive materials are outside the scope of low rank matter spheres.</p>",
+    "level": 0,
+    "sphere": "matter",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "80"
+    }
+  },
+  "_id": "lyvjueIYZ0H4XCGs",
+  "_key": "!items!lyvjueIYZ0H4XCGs"
+}

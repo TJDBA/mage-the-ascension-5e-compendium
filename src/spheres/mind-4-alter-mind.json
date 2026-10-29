@@ -1,0 +1,17 @@
+{
+  "name": "Alter Mind",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "QV0FFnckHS2nUP5H",
+  "system": {
+    "description": "<p>The mage may alter the targets memories by overwriting them and can also plant suggestions and commands.</p>",
+    "level": 4,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "nhV0ui7xiOXwDZMo",
+  "_key": "!items!nhV0ui7xiOXwDZMo"
+}

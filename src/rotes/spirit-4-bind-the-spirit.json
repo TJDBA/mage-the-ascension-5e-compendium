@@ -1,0 +1,17 @@
+{
+  "name": "Bind the Spirit",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "phxBj1j6ErNFElh2",
+  "system": {
+    "description": "<p>The mage commands, bargains with, or binds a spirit to a task, place, or object. Rank 2 contacts and affects spirits; rank 4 binds and compels them into service. The spirit may resist with a contested roll, and mistreated spirits often seek revenge once freed.</p><p><strong>Dice Pool:</strong> Manipulation + Occult (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Spirit 4; mechanics paraphrased.</em></p>",
+    "level": 4,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "C3YQzgjEF9BbiuvD",
+  "_key": "!items!C3YQzgjEF9BbiuvD"
+}

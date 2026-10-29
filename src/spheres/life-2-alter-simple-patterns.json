@@ -1,0 +1,17 @@
+{
+  "name": "Alter Simple Patterns",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "hORgRhrFAPznoZsy",
+  "system": {
+    "description": "<p>The mage can influence simple life forms, like fungi, invertebrates, or plants.</p>",
+    "level": 2,
+    "sphere": "life",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "79"
+    }
+  },
+  "_id": "9wMiYyMaqT28zvrU",
+  "_key": "!items!9wMiYyMaqT28zvrU"
+}

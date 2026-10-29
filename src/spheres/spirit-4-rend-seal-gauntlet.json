@@ -1,0 +1,17 @@
+{
+  "name": "Rend/Seal Gauntlet",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "5LnIqpqHl7XVjYUg",
+  "system": {
+    "description": "<p>You can make rifts into and out of the Gauntlet or collapse them.</p>",
+    "level": 4,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "2VVSmqTUz7D1gIX0",
+  "_key": "!items!2VVSmqTUz7D1gIX0"
+}

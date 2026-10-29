@@ -1,0 +1,17 @@
+{
+  "name": "Transmute Major Forces",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "Jt3Zk2O0IB538Fv9",
+  "system": {
+    "description": "<p>The mage can use their power on nearly all Forces Patterns within their surroundings, summoning storms of fire, massive charges or electricity, shadows that blot out entire city blocks, and typhoons even in the midst of a calm day.</p>",
+    "level": 5,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "78"
+    }
+  },
+  "_id": "vecqVhthIlpV87oQ",
+  "_key": "!items!vecqVhthIlpV87oQ"
+}

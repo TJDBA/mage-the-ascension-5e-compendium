@@ -1,0 +1,17 @@
+{
+  "name": "Untether",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "315aUWZwk3VBxoii",
+  "system": {
+    "description": "<p>You can now untether your mind from your body allowing limitless projection.</p>",
+    "level": 5,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "hTc1cElfMFxC9r1Y",
+  "_key": "!items!hTc1cElfMFxC9r1Y"
+}

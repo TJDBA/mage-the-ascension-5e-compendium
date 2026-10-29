@@ -1,0 +1,17 @@
+{
+  "name": "Touch Spirit",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "gKV9KgjGpsaNz4xZ",
+  "system": {
+    "description": "<p>The mage can affect small things on the other side of the Gauntlet.</p>",
+    "level": 2,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "iDZ5GoFoSFII6iLt",
+  "_key": "!items!iDZ5GoFoSFII6iLt"
+}

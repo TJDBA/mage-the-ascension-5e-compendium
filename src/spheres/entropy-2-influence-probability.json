@@ -1,0 +1,17 @@
+{
+  "name": "Influence Probability",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "8hRcLDNQ2jnkjxC0",
+  "system": {
+    "description": "<p>The mage can now control the probability of simple games of chance and slightly influence single actions with a large luck component (allowing them to bestow a +1 or –1 automatic success on non-casting rolls). The difficulty of the roll should reflect the time taken for the event to happen, instant events being more difficult. As you can perceive the probability of actions this action may be taken immediately after a roll to represent your knowledge of the probability of the outcome, although the difficulty should be increased.</p>",
+    "level": 2,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "tMFMnuJkHbXDh6k0",
+  "_key": "!items!tMFMnuJkHbXDh6k0"
+}

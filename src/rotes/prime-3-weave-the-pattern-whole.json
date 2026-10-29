@@ -1,0 +1,17 @@
+{
+  "name": "Weave the Pattern Whole",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "RslS8VJlL5m2E4o9",
+  "system": {
+    "description": "<p>The mage invests raw Prime energy into another sphere’s effect, letting magick create lasting or ‘real’ things rather than mere illusions, and fortify conjured patterns against unraveling. Rank 3 channels Quintessence into effects and can empower objects. It is the connective tissue that makes other spheres’ creations endure.</p><p><strong>Dice Pool:</strong> Intelligence + Occult (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Prime 3; mechanics paraphrased.</em></p>",
+    "level": 3,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "8Ynl0cbOvJ3CUbAb",
+  "_key": "!items!8Ynl0cbOvJ3CUbAb"
+}

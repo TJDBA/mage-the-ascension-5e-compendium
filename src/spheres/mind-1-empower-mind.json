@@ -1,0 +1,17 @@
+{
+  "name": "Empower Mind",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "7JZUJH0iiGqdihnH",
+  "system": {
+    "description": "<p>You can empower you mind increasing the speed at which you process mental tasks or even allowing you to add 1 dot in any 1 mental attribute.</p>",
+    "level": 1,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "d1GVbxiZ0m3anmtc",
+  "_key": "!items!d1GVbxiZ0m3anmtc"
+}

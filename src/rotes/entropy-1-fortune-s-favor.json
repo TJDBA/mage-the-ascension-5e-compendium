@@ -1,0 +1,17 @@
+{
+  "name": "Fortune’s Favor",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "1KgxzEHiLo2OPd3C",
+  "system": {
+    "description": "<p>The mage reads and subtly nudges the flow of probability, granting a stroke of good luck or inflicting bad luck on a target. In play the Storyteller applies a modifier to a single chance-based roll, such as a gamble, a trick shot, or an enemy’s fumble. It works best when framed as plausible coincidence.</p><p><strong>Dice Pool:</strong> Manipulation + Occult (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Entropy 1; mechanics paraphrased.</em></p>",
+    "level": 1,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "tfLV0U8dRKjBJZES",
+  "_key": "!items!tfLV0U8dRKjBJZES"
+}

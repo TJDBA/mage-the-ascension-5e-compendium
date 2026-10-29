@@ -1,0 +1,17 @@
+{
+  "name": "Dream Control",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "aETPr1hfBv3NRPvV",
+  "system": {
+    "description": "<p>Allows the mage to control their dreams and those of others.</p>",
+    "level": 3,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "Jx94y4Fz78SiwN7L",
+  "_key": "!items!Jx94y4Fz78SiwN7L"
+}

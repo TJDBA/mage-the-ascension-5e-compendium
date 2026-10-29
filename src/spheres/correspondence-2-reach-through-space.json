@@ -1,0 +1,17 @@
+{
+  "name": "Reach Through Space",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "uld7SKqDIV9FLBwk",
+  "system": {
+    "description": "<p>With adjacent Spheres of Life or Matter, they can draw small lifeforms or objects through space.</p>",
+    "level": 2,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "pH7PrsyA6z6FJxcm",
+  "_key": "!items!pH7PrsyA6z6FJxcm"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Illusions of the Mind",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "aETPr1hfBv3NRPvV",
+  "system": {
+    "description": "<p>Allows the mage to force a person's mind to perceive things that aren't real. In effect this makes an illusion for the target only.</p>",
+    "level": 3,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "1epYdigui9nulDuf",
+  "_key": "!items!1epYdigui9nulDuf"
+}

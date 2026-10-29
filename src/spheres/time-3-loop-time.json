@@ -1,0 +1,17 @@
+{
+  "name": "Loop Time",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "6KcnMD9RF4855sA1",
+  "system": {
+    "description": "<p>Allows the mage to create short loops of time that repeat.</p>",
+    "level": 3,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "RLanxUmA6LFgTa7I",
+  "_key": "!items!RLanxUmA6LFgTa7I"
+}

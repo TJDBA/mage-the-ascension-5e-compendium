@@ -1,0 +1,17 @@
+{
+  "name": "Anchor Point",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "91EsIyjXtfUXpWkS",
+  "system": {
+    "description": "<p>Allow the mage to create an anchor point in time allowing them to find their way back to 'their' present with much more ease.</p>",
+    "level": 4,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "imE7MIMtCt6BBImS",
+  "_key": "!items!imE7MIMtCt6BBImS"
+}

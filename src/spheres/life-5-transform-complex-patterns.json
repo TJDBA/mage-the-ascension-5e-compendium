@@ -1,0 +1,17 @@
+{
+  "name": "Transform Complex Patterns",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "oDlGOCQL5RcFnq9e",
+  "system": {
+    "description": "<p>The mage can transform complex life forms into a simpler form, transforming i.e. an attacking human into a frog.</p>",
+    "level": 5,
+    "sphere": "life",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "79"
+    }
+  },
+  "_id": "v1hEI5eWj4X0ioKA",
+  "_key": "!items!v1hEI5eWj4X0ioKA"
+}

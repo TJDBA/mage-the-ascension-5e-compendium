@@ -1,0 +1,17 @@
+{
+  "name": "Knit the Flesh",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "oW0rFb5EejwcRWCQ",
+  "system": {
+    "description": "<p>The mage accelerates a living body’s healing, closing wounds, mending bone, and purging toxins. Healing the self requires Life 3; healing another’s complex pattern requires Life 4. Each success repairs a measure of injury, framed coincidentally as a patient’s remarkable recovery.</p><p><strong>Dice Pool:</strong> Intelligence + Medicine (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Life 3/4; mechanics paraphrased.</em></p>",
+    "level": 3,
+    "sphere": "life",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "4GDHhlReoWdQFEaz",
+  "_key": "!items!4GDHhlReoWdQFEaz"
+}

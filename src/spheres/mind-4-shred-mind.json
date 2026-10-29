@@ -1,0 +1,17 @@
+{
+  "name": "Shred Mind",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "QV0FFnckHS2nUP5H",
+  "system": {
+    "description": "<p>The mage can attack a person's mind directly, shredding their very concept of self and identity.</p>",
+    "level": 4,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "Fokhy2D90l4bFlTM",
+  "_key": "!items!Fokhy2D90l4bFlTM"
+}

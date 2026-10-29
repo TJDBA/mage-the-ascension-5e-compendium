@@ -1,0 +1,17 @@
+{
+  "name": "Control Subconscious",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "315aUWZwk3VBxoii",
+  "system": {
+    "description": "<p>The mage can rewrite the person's psyche, beliefs, personality as well as rewriting existing memories or removing them.</p>",
+    "level": 5,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "RYbgoFDBEmx60cUb",
+  "_key": "!items!RYbgoFDBEmx60cUb"
+}

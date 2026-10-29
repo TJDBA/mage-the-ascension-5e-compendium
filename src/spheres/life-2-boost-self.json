@@ -1,0 +1,17 @@
+{
+  "name": "Boost Self",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "hORgRhrFAPznoZsy",
+  "system": {
+    "description": "<p>You may alter your physique adding or subtracting up to 1 dot of any physical attributes.</p>",
+    "level": 2,
+    "sphere": "life",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "79"
+    }
+  },
+  "_id": "jDSJqWm4G7L7NAWD",
+  "_key": "!items!jDSJqWm4G7L7NAWD"
+}

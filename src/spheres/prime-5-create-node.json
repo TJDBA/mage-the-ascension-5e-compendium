@@ -1,0 +1,17 @@
+{
+  "name": "Create node",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "8bCb1gVr2selpipE",
+  "system": {
+    "description": "<p>Create a permanent node.</p>",
+    "level": 5,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "EBEL5ikQdfLEa8KL",
+  "_key": "!items!EBEL5ikQdfLEa8KL"
+}

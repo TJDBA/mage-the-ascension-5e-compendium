@@ -1,0 +1,17 @@
+{
+  "name": "Basic Transmutation",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-matter.svg",
+  "folder": "6TAQCN991LY1V2Ev",
+  "system": {
+    "description": "<p>Allows the mage to change one homogenous substance into another without affecting its shape, temperature, or basic state. Stone to iron is possibly, stone to gold harder, stone to fog impossible.</p>",
+    "level": 2,
+    "sphere": "matter",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "80"
+    }
+  },
+  "_id": "MvEVLqPPqIUcxojr",
+  "_key": "!items!MvEVLqPPqIUcxojr"
+}

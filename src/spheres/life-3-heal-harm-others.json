@@ -1,0 +1,17 @@
+{
+  "name": "Heal/Harm Others",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "aziirIO5JBbhNpR3",
+  "system": {
+    "description": "<p>The mage can fix/inflict damage in other Life Patterns.</p>",
+    "level": 3,
+    "sphere": "life",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "79"
+    }
+  },
+  "_id": "tQ3tJJbVES8Z9vx4",
+  "_key": "!items!tQ3tJJbVES8Z9vx4"
+}

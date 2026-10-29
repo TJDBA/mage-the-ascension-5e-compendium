@@ -1,0 +1,17 @@
+{
+  "name": "Time Sense",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "X3FIF6JEGVrbdGuU",
+  "system": {
+    "description": "<p>You always know what time it is exactly and are aware of distortions of local time.</p>",
+    "level": 1,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "ZwKiYatLK0J3MFx6",
+  "_key": "!items!ZwKiYatLK0J3MFx6"
+}

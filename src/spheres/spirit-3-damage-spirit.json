@@ -1,0 +1,17 @@
+{
+  "name": "Damage Spirit",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "vyqGuj0cAOWIiD4X",
+  "system": {
+    "description": "<p>You can directly damage spirits at this rank.</p>",
+    "level": 3,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "YCoEzGZI5m1Emfqv",
+  "_key": "!items!YCoEzGZI5m1Emfqv"
+}

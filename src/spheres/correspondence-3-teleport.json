@@ -1,0 +1,17 @@
+{
+  "name": "Teleport",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "e9uBhvtDpvVEVQWD",
+  "system": {
+    "description": "<p>You can now teleport yourself and small loads and items through space. With pattern spheres you may teleport small loads and items from a distance. You can teleport up to a few hundred kilometers.</p>",
+    "level": 3,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "jWXz2jRQlTwkrNZ0",
+  "_key": "!items!jWXz2jRQlTwkrNZ0"
+}

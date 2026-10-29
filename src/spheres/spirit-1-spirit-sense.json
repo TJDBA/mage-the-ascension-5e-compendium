@@ -1,0 +1,17 @@
+{
+  "name": "Spirit Sense",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "I4RlJMHVbAGrcYPq",
+  "system": {
+    "description": "<p>You can peek into the other side of the Gauntlet.</p>",
+    "level": 1,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "8ofejbeCNOCPypP5",
+  "_key": "!items!8ofejbeCNOCPypP5"
+}

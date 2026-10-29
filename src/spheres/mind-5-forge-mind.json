@@ -1,0 +1,17 @@
+{
+  "name": "Forge Mind",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "315aUWZwk3VBxoii",
+  "system": {
+    "description": "<p>You can create a mind from nowhere, although you would still need other spheres to anchor and instantiate it.</p>",
+    "level": 5,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "tDXuf24W0FPZA7aO",
+  "_key": "!items!tDXuf24W0FPZA7aO"
+}

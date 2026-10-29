@@ -1,0 +1,17 @@
+{
+  "name": "Consecration",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "87owJT1Xo742exOx",
+  "system": {
+    "description": "<p>Allows the mage to enchant an object with their own resonance making it shape change with them or always count as within immediate perception for them.</p>",
+    "level": 1,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "FskAr82XZdzKIx6O",
+  "_key": "!items!FskAr82XZdzKIx6O"
+}

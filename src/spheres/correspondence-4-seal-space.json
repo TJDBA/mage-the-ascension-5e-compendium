@@ -1,0 +1,17 @@
+{
+  "name": "Seal Space",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "ivkHL4kGRYSNatzo",
+  "system": {
+    "description": "<p>Create small pockets of space divorced from normal space. These eventually merge back but can be used with auxiliary spheres to seal patterns into their own realms.</p>",
+    "level": 4,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "FrFcRLzrRZJugF7u",
+  "_key": "!items!FrFcRLzrRZJugF7u"
+}

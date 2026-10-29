@@ -1,0 +1,17 @@
+{
+  "name": "Quintessential Permanence",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "8bCb1gVr2selpipE",
+  "system": {
+    "description": "<p>Make enchantments permanent.</p>",
+    "level": 5,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "Z4dkDQlGf8ZDZub4",
+  "_key": "!items!Z4dkDQlGf8ZDZub4"
+}

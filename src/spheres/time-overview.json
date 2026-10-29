@@ -1,0 +1,17 @@
+{
+  "name": "Time (Overview)",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "kG9trKo8PuQBWFUS",
+  "system": {
+    "description": "<h3>Effects</h3><p><strong>Reversing the Flow:</strong> Going against the flow of time is far harder than going with it, and any attempt to actually reverse time increases difficulty by 3.</p><p><strong>Time Paradox:</strong> When going back in time any paradox you gained or lost during the intervening time is not undone, paradox follows you since it is a product of the Tapestry and is outside our mortal Space-Time.</p><p><strong>Memory:</strong> Just remember that if you rewind time, you also undo the memories of people affected, including your own if you are affected! Mind 2 combined would allow you to avoid having your memories altered.</p>",
+    "level": 0,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "DlXZkt60EY79yzEu",
+  "_key": "!items!DlXZkt60EY79yzEu"
+}

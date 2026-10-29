@@ -1,0 +1,17 @@
+{
+  "name": "Read the Surface Thoughts",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "nCMspHuJam2TNHF0",
+  "system": {
+    "description": "<p>The mage skims the immediate, surface thoughts and emotions of a nearby target, sensing mood, intent, and whatever occupies their mind right now. Rank 1 reads emotions; rank 2 reaches conscious thoughts. Deeper memories or implanting ideas require higher ranks. The subject may resist with a contested roll.</p><p><strong>Dice Pool:</strong> Perception + Empathy (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Mind 2; mechanics paraphrased.</em></p>",
+    "level": 2,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "XBUBsuXiyxXorQBM",
+  "_key": "!items!XBUBsuXiyxXorQBM"
+}

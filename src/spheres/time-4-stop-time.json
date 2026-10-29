@@ -1,0 +1,17 @@
+{
+  "name": "Stop Time",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "91EsIyjXtfUXpWkS",
+  "system": {
+    "description": "<p>Allows a mage to stop time in its tracks.</p>",
+    "level": 4,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "uvw5BQrNwgz0QQ4p",
+  "_key": "!items!uvw5BQrNwgz0QQ4p"
+}

@@ -37,9 +37,13 @@ for (const pack of packs) {
   const files = readdirSync(src).filter((f) => f.endsWith('.json'))
   for (const file of files) {
     const doc = JSON.parse(readFileSync(join(src, file), 'utf8'))
-    const id = doc._id ?? deterministicId(`${pack}/${basename(file, '.json')}`)
-    doc._id = id
-    doc._key = `!items!${id}`
+    // Preserve a pre-assigned _key (folders use !folders!<id>, generated items
+    // already carry !items!<id>); only derive one for legacy un-keyed source files.
+    if (!doc._key) {
+      const id = doc._id ?? deterministicId(`${pack}/${basename(file, '.json')}`)
+      doc._id = id
+      doc._key = `!items!${id}`
+    }
     writeFileSync(join(stage, file), JSON.stringify(doc, null, 2))
   }
 

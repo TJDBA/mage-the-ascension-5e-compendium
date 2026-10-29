@@ -1,0 +1,17 @@
+{
+  "name": "Astral Projection",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "QV0FFnckHS2nUP5H",
+  "system": {
+    "description": "<p>The mage may divorce their minds from their body and roam freely.</p>",
+    "level": 4,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "eDuW5E4CWCv3YItO",
+  "_key": "!items!eDuW5E4CWCv3YItO"
+}

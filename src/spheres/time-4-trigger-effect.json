@@ -1,0 +1,17 @@
+{
+  "name": "Trigger Effect",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "91EsIyjXtfUXpWkS",
+  "system": {
+    "description": "<p>Allows the mage to generate a paused spell that can be triggered based on an input under the purview of a sphere.</p>",
+    "level": 4,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "lmjnjnTmZKkPEEKJ",
+  "_key": "!items!lmjnjnTmZKkPEEKJ"
+}

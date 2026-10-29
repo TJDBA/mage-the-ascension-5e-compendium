@@ -1,0 +1,17 @@
+{
+  "name": "Etheric Sense",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "87owJT1Xo742exOx",
+  "system": {
+    "description": "<p>The mage can perceive quintessential energy, and can perceive when someone uses magic in their vicinity.</p>",
+    "level": 1,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "pLbauLwkpBfkgt20",
+  "_key": "!items!pLbauLwkpBfkgt20"
+}

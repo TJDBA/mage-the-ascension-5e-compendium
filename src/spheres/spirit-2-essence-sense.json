@@ -1,0 +1,17 @@
+{
+  "name": "Essence Sense",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "gKV9KgjGpsaNz4xZ",
+  "system": {
+    "description": "<p>You can sense powerful emotions associated with objects.</p>",
+    "level": 2,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "glFANbMUfGGTTkBx",
+  "_key": "!items!glFANbMUfGGTTkBx"
+}

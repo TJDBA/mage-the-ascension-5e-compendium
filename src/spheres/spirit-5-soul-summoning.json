@@ -1,0 +1,17 @@
+{
+  "name": "Soul Summoning",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "IG8VItAjCifEDIYq",
+  "system": {
+    "description": "<p>Souls can be created or altered which can then be used for living things created from other spheres.</p>",
+    "level": 5,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "irhbAzrj7yE8LtQx",
+  "_key": "!items!irhbAzrj7yE8LtQx"
+}

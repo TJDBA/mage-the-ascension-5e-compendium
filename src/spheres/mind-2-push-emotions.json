@@ -1,0 +1,17 @@
+{
+  "name": "Push Emotions",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "p7zGFpcjVk4Vvthe",
+  "system": {
+    "description": "<p>You can push and stoke emotions present in another to try and influence them and their feelings.</p>",
+    "level": 2,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "wmGP8B9lmgEb6MF6",
+  "_key": "!items!wmGP8B9lmgEb6MF6"
+}

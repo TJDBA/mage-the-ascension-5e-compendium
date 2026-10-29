@@ -1,0 +1,17 @@
+{
+  "name": "Mind (Overview)",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "UgEGo2O8VkT8usIH",
+  "system": {
+    "description": "<h3>Effects</h3><p><strong>Examining the Cause:</strong> All mind powers performed with spheres under rank 5 to subvert a targets freewill leave evidence of a targets altered consciousness. These differences between conscious and subconscious, or micro fractures in their memories and rationalizations can be detected by a skilled mind mage. At rank 5 in mind however the target can be reshaped to rationalize their actions as their own and the memories are entirely replaced instead of being papered-over.</p><p><strong>Intimate Knowledge:</strong> Generally, effects that can be done to other people can be done to the mage by themselves at 1 sphere rank lower than usual due to their innate knowledge of their own pattern and self.</p>",
+    "level": 0,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "bjC0MstDsXry9QoB",
+  "_key": "!items!bjC0MstDsXry9QoB"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sense Probability",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "GhsffJ4hZMQHZjpp",
+  "system": {
+    "description": "<p>You know the exact odds of obvious chance games (card games etc.) and the approximate odds of more esoteric events (such as a yellow car passing by in the next minute).</p>",
+    "level": 1,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "VITAfh4xx1ruq4oV",
+  "_key": "!items!VITAfh4xx1ruq4oV"
+}

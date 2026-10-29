@@ -1,0 +1,17 @@
+{
+  "name": "Time Contraction or Dilation",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "6KcnMD9RF4855sA1",
+  "system": {
+    "description": "<p>Allows the mage to slow or speed up the flow of time compared to the normal world.</p>",
+    "level": 3,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "KiyJx5aAQ87g5QgT",
+  "_key": "!items!KiyJx5aAQ87g5QgT"
+}

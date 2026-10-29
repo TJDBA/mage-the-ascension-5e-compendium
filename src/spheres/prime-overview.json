@@ -1,0 +1,17 @@
+{
+  "name": "Prime (Overview)",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "Z2t9lz6woUMXo2zi",
+  "system": {
+    "description": "<h3>Effects</h3><p><strong>Prime Energy:</strong> Mages skilled in the prime sphere (anything of rank 2 or above) can be easier to spot by mystic means as their connection to the Tapestry is unique and more easily picked up on.</p><p><strong>Limits:</strong> Although Prime is a powerful sphere it relies on other spheres to shape things into being.</p>",
+    "level": 0,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "9l5qD7vzpq6bOz8r",
+  "_key": "!items!9l5qD7vzpq6bOz8r"
+}

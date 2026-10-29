@@ -1,0 +1,17 @@
+{
+  "name": "Enchant Life",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "y2z1BZ8t2sKxDWG1",
+  "system": {
+    "description": "<p>Allows a mage to tap into a living being's quintessence, allowing them to interact with spirits and affect other beings enchanted with prime.</p>",
+    "level": 3,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "vfYQ5el2OeZ9ZqwK",
+  "_key": "!items!vfYQ5el2OeZ9ZqwK"
+}

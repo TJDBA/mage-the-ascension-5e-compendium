@@ -1,0 +1,17 @@
+{
+  "name": "Time Immunity",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "3R7yBRVisLUEJhba",
+  "system": {
+    "description": "<p>The mage can become immune to time allowing them to step in and out of time's flow.</p>",
+    "level": 5,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "YHE7qCFhskfXeLbp",
+  "_key": "!items!YHE7qCFhskfXeLbp"
+}

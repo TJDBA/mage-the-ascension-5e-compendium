@@ -1,0 +1,17 @@
+{
+  "name": "State Change",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-matter.svg",
+  "folder": "vAEJN6RxFMRCrWIA",
+  "system": {
+    "description": "<p>You can change the nature of the object turning it into a homogenous number of similar pieces allowing you to turn stone into fine grains or even atoms, briefly turning it to fog before the density would cause it to collapse (combined with prime to alter the mass you could make a fog of stone).</p>",
+    "level": 3,
+    "sphere": "matter",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "80"
+    }
+  },
+  "_id": "ygn10jdLQHECtnuC",
+  "_key": "!items!ygn10jdLQHECtnuC"
+}

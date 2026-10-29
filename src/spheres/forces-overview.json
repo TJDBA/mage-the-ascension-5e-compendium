@@ -1,0 +1,17 @@
+{
+  "name": "Forces (Overview)",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "miHWBgQ9o7tUU1o6",
+  "system": {
+    "description": "<h3>Effects</h3><p><strong>Tempest:</strong> Forces damage always an additional 1 extra damage on a success due to the incredibly damaging nature of forces.</p>",
+    "level": 0,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "78"
+    }
+  },
+  "_id": "wcJJLdaFJTma4SVY",
+  "_key": "!items!wcJJLdaFJTma4SVY"
+}

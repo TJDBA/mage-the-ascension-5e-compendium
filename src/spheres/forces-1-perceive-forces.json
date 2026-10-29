@@ -1,0 +1,17 @@
+{
+  "name": "Perceive Forces",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "kQDMpEm2Asi5bNlx",
+  "system": {
+    "description": "<p>The mage becomes privy to Forces patterns around them, transcending the limits of human sensory organs.</p>",
+    "level": 1,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "78"
+    }
+  },
+  "_id": "OiaEymDdV9BUATYC",
+  "_key": "!items!OiaEymDdV9BUATYC"
+}

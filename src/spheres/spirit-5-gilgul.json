@@ -1,0 +1,17 @@
+{
+  "name": "Gilgul",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "IG8VItAjCifEDIYq",
+  "system": {
+    "description": "<p>The mage can affect and attack other mage's avatars.</p>",
+    "level": 5,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "osHLXPpX8T876YpG",
+  "_key": "!items!osHLXPpX8T876YpG"
+}

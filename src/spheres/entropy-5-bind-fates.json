@@ -1,0 +1,17 @@
+{
+  "name": "Bind Fates",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "3Mi96SxHJrCGBFZD",
+  "system": {
+    "description": "<p>The mage can tie the fates of people, objects, or events together. Making it possible for people to repeatedly meet, never manage to get rid of an item, or similar.</p>",
+    "level": 5,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "M5DoXmfBMMEImLjO",
+  "_key": "!items!M5DoXmfBMMEImLjO"
+}

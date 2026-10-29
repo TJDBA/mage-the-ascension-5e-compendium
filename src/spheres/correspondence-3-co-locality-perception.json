@@ -1,0 +1,17 @@
+{
+  "name": "Co-Locality Perception",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "e9uBhvtDpvVEVQWD",
+  "system": {
+    "description": "<p>You can split your senses over multiple locations allowing you to perceive multiple locations. However, without Mind 1 or possibly 2 (or similar) perceiving all at once would overwhelm a normal mind.</p>",
+    "level": 3,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "6td5OyvSaUTcyJZ1",
+  "_key": "!items!6td5OyvSaUTcyJZ1"
+}

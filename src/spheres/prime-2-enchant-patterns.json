@@ -1,0 +1,17 @@
+{
+  "name": "Enchant Patterns",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "VEyqF2jAh5dzFikv",
+  "system": {
+    "description": "<p>Allows a mage to tap into an object's quintessence, allowing it to interact with spirits and affect other objects enchanted with prime.</p>",
+    "level": 2,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "shcz0bTH3QzT34Yc",
+  "_key": "!items!shcz0bTH3QzT34Yc"
+}

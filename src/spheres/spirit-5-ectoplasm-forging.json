@@ -1,0 +1,17 @@
+{
+  "name": "Ectoplasm Forging",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "IG8VItAjCifEDIYq",
+  "system": {
+    "description": "<p>The mage can summon and shape the material of the spirit realm as they see fit creating new realms or healing spirits.</p>",
+    "level": 5,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "FaWprPh3gshE8VYk",
+  "_key": "!items!FaWprPh3gshE8VYk"
+}

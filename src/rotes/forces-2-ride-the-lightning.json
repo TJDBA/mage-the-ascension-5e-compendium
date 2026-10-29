@@ -1,0 +1,17 @@
+{
+  "name": "Ride the Lightning",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "o9rL5B2v7IGWdw2x",
+  "system": {
+    "description": "<p>The mage senses and redirects electrical and electromagnetic currents, rerouting power, overloading a circuit, or dimming and brightening lights. At rank 2 the caster perceives and manipulates existing energy flows rather than creating them. Useful for disabling cameras, cutting alarms, or powering a dead device.</p><p><strong>Dice Pool:</strong> Wits + Technology (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Forces 2; mechanics paraphrased.</em></p>",
+    "level": 2,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "nDjNWDvhuNvipKF8",
+  "_key": "!items!nDjNWDvhuNvipKF8"
+}

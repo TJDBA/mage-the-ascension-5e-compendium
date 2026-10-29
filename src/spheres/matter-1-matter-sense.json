@@ -1,0 +1,17 @@
+{
+  "name": "Matter Sense",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-matter.svg",
+  "folder": "r3mq2HTNZF7VueZ1",
+  "system": {
+    "description": "<p>The mage knows information about material objects and may be treated as a specialist in their design or may recreate them using higher rank matter spells.</p>",
+    "level": 1,
+    "sphere": "matter",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "80"
+    }
+  },
+  "_id": "ChIYYI2ichHDmV1t",
+  "_key": "!items!ChIYYI2ichHDmV1t"
+}

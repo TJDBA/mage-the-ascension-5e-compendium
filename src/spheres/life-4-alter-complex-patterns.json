@@ -1,0 +1,17 @@
+{
+  "name": "Alter Complex Patterns",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "NiwdodXUqu6xiNqp",
+  "system": {
+    "description": "<p>The mage can alter complex Life Patterns of vertebrates, possibly inflicting serious damages or enhancing their natural capabilities.</p>",
+    "level": 4,
+    "sphere": "life",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "79"
+    }
+  },
+  "_id": "UOPHlroMZyJ1m9YS",
+  "_key": "!items!UOPHlroMZyJ1m9YS"
+}

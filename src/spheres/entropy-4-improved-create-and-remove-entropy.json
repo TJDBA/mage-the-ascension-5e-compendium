@@ -1,0 +1,17 @@
+{
+  "name": "Improved Create and Remove Entropy",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-entropy.svg",
+  "folder": "dUr5SV4p6pbalzQX",
+  "system": {
+    "description": "<p>An improved form of the Rank 3 ability, this now allows you to introduce disorder or order for an unpredictable pattern such as a living being. Making it possible for that person to be plagued with stubbing their toe or more nefarious ends. Such influence, as noted above, inflicts or heals aggravated damage.</p>",
+    "level": 4,
+    "sphere": "entropy",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "77"
+    }
+  },
+  "_id": "MOfYMjRtfiW97ICe",
+  "_key": "!items!MOfYMjRtfiW97ICe"
+}

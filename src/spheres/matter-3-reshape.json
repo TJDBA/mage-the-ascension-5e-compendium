@@ -1,0 +1,17 @@
+{
+  "name": "Reshape",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-matter.svg",
+  "folder": "vAEJN6RxFMRCrWIA",
+  "system": {
+    "description": "<p>You can reshape objects as you will although they must still generally be one piece or homogenous.</p>",
+    "level": 3,
+    "sphere": "matter",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "80"
+    }
+  },
+  "_id": "zyqwx1Rlkau7x2B0",
+  "_key": "!items!zyqwx1Rlkau7x2B0"
+}

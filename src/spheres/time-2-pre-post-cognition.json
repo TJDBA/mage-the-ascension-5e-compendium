@@ -1,0 +1,17 @@
+{
+  "name": "Pre/Post-Cognition",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "EgOZIJ7qcXIkOcCA",
+  "system": {
+    "description": "<p>Allows you to see backwards and forwards in time. The impressions are hazy, not entirely accurate, and bound by the limitations of the time and place (what a bystander could perceive under the circumstances).</p>",
+    "level": 2,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "cBJ0hUTKDZ3p0iVY",
+  "_key": "!items!cBJ0hUTKDZ3p0iVY"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Primal Force",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "VEyqF2jAh5dzFikv",
+  "system": {
+    "description": "<p>Allows disruption of patterns to cause damage on a primal level to the target.</p>",
+    "level": 2,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "3DGUSZNglBUMdKpb",
+  "_key": "!items!3DGUSZNglBUMdKpb"
+}

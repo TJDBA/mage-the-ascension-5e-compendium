@@ -1,0 +1,17 @@
+{
+  "name": "Create Simple Patterns",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "VEyqF2jAh5dzFikv",
+  "system": {
+    "description": "<p>Allows a mage to create a simple pattern from nowhere, however each use or turn costs one quintessence unless it is made real by imbuing it with another appropriate sphere (such as creating a rock using Matter 3).</p>",
+    "level": 2,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "nJY4Nm7UbGs9ccxT",
+  "_key": "!items!nJY4Nm7UbGs9ccxT"
+}

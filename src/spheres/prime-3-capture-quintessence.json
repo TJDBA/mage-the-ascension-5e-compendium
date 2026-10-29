@@ -1,0 +1,17 @@
+{
+  "name": "Capture Quintessence",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "y2z1BZ8t2sKxDWG1",
+  "system": {
+    "description": "<p>Allows the mage to hold additional quintessence or even store it in an object.</p>",
+    "level": 3,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "N9b1shmUtrN9BfcO",
+  "_key": "!items!N9b1shmUtrN9BfcO"
+}

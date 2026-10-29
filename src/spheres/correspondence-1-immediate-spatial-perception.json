@@ -1,0 +1,17 @@
+{
+  "name": "Immediate Spatial Perception",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "UsLCPI2NmTkAXWZI",
+  "system": {
+    "description": "<p>Basic spatial understanding allows a mage to sense things in her immediate vicinity even if she can't perceive them with her normal senses such as warps, anomalies, wormholes, etc. – especially the ones caused by other Correspondence Effects.</p>",
+    "level": 1,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "nDNKbZVpIIopAMVc",
+  "_key": "!items!nDNKbZVpIIopAMVc"
+}

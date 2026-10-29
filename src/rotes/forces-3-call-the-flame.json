@@ -1,0 +1,17 @@
+{
+  "name": "Call the Flame",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-forces.svg",
+  "folder": "FSBmwKN2xuDc9IyA",
+  "system": {
+    "description": "<p>The mage gathers and ignites ambient energy into controllable fire, kindling a flame, hurling a bolt of heat, or flashing an object alight. Forces 2 lets the caster perceive and steer existing energy; rank 3 creates and projects it outright. Coincidental casting looks for a spark, a pilot light, or a plausible ignition source.</p><p><strong>Dice Pool:</strong> Intelligence + Science (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Forces 3; mechanics paraphrased.</em></p>",
+    "level": 3,
+    "sphere": "forces",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "wLRTsLgGDYUvMrR7",
+  "_key": "!items!wLRTsLgGDYUvMrR7"
+}

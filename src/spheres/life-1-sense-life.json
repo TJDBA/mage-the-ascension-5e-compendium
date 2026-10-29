@@ -1,0 +1,17 @@
+{
+  "name": "Sense Life",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "Hxuzy39Q4BQ8DRDX",
+  "system": {
+    "description": "<p>The mage can sense the potency of a Life Pattern, measuring its relative health and well-being, as well as basic information (age, sex etc.)</p>",
+    "level": 1,
+    "sphere": "life",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "79"
+    }
+  },
+  "_id": "E7s0uU9igMtMLFbO",
+  "_key": "!items!E7s0uU9igMtMLFbO"
+}

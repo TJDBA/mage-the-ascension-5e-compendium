@@ -1,0 +1,17 @@
+{
+  "name": "Fortify Mental Shield",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "p7zGFpcjVk4Vvthe",
+  "system": {
+    "description": "<p>You can strengthen your mental defenses making it harder for Mind effects to be used on you.</p>",
+    "level": 2,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "F8qVran6bCsTH5zu",
+  "_key": "!items!F8qVran6bCsTH5zu"
+}

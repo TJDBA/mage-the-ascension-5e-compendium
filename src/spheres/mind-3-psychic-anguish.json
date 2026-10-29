@@ -1,0 +1,17 @@
+{
+  "name": "Psychic Anguish",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-mind.svg",
+  "folder": "aETPr1hfBv3NRPvV",
+  "system": {
+    "description": "<p>The mage can attack a person's mind and force them to experience emotions, thoughts, ideas and torment. This causes the target to take willpower damage.</p>",
+    "level": 3,
+    "sphere": "mind",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "81"
+    }
+  },
+  "_id": "36mdrgCzMNup1iWj",
+  "_key": "!items!36mdrgCzMNup1iWj"
+}

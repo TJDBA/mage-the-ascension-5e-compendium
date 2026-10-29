@@ -1,0 +1,17 @@
+{
+  "name": "Co-Locate Self",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "ivkHL4kGRYSNatzo",
+  "system": {
+    "description": "<p>You can now be in multiple places at once or more precisely multiple places are the one you are in. Bear in mind that similar to Co-Locate Perception you may need other spheres to perceive all locations at once without issue. In addition, all locations of you do the same actions as it is just one of 'you', however with Life 3 you could make them act independently.</p>",
+    "level": 4,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "1a9qUmUtKqxz2W3I",
+  "_key": "!items!1a9qUmUtKqxz2W3I"
+}

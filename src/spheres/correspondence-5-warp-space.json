@@ -1,0 +1,17 @@
+{
+  "name": "Warp Space",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-correspondence.svg",
+  "folder": "bwOgXm5HCd21lCt1",
+  "system": {
+    "description": "<p>The mage can now bend and warp reality allowing space to be stretched increasing distances or shortened. The mage can twist space upon itself making cities hang upside down over oceans or roads appear to be loops.</p>",
+    "level": 5,
+    "sphere": "correspondence",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "76"
+    }
+  },
+  "_id": "MCVwI8AxtiFciMNe",
+  "_key": "!items!MCVwI8AxtiFciMNe"
+}

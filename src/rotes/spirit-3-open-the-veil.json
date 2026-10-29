@@ -1,0 +1,17 @@
+{
+  "name": "Open the Veil",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-spirit.svg",
+  "folder": "u667o9FIdsmoY1rh",
+  "system": {
+    "description": "<p>The mage perceives the spirit world and thins or opens a passage through the Gauntlet between the material and the Umbra. Rank 1 senses spirits; rank 3 reaches across or steps through the barrier. In play this lets the caster peer into, communicate with, or step sideways into the spirit realm.</p><p><strong>Dice Pool:</strong> Perception + Awareness (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Spirit 3; mechanics paraphrased.</em></p>",
+    "level": 3,
+    "sphere": "spirit",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "rozG6Wz4OpfR0fDz",
+  "_key": "!items!rozG6Wz4OpfR0fDz"
+}

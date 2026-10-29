@@ -1,0 +1,17 @@
+{
+  "name": "Better Body",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-life.svg",
+  "folder": "DPCw4QBVlWyvrTjH",
+  "system": {
+    "description": "<p>The mage optimizes their own living pattern, temporarily sharpening reflexes, boosting strength, or shrugging off fatigue. At rank 2 the caster adjusts simple life functions in their own body. In play this grants a bonus to a Physical Attribute or resistance roll for the scene’s duration.</p><p><strong>Dice Pool:</strong> Stamina + Athletics (+1 die as a rote)</p><p><em>Adapted to M5 from M20 Life 2; mechanics paraphrased.</em></p>",
+    "level": 2,
+    "sphere": "life",
+    "source": {
+      "book": "M5 (adapted from M20)",
+      "page": ""
+    }
+  },
+  "_id": "RXqqBwAYdeQlHMYl",
+  "_key": "!items!RXqqBwAYdeQlHMYl"
+}

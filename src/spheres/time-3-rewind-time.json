@@ -1,0 +1,17 @@
+{
+  "name": "Rewind Time",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-time.svg",
+  "folder": "6KcnMD9RF4855sA1",
+  "system": {
+    "description": "<p>Allows the mage to rewind time up to the duration of a scene.</p>",
+    "level": 3,
+    "sphere": "time",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "83"
+    }
+  },
+  "_id": "FQmp6wVw16woLjU4",
+  "_key": "!items!FQmp6wVw16woLjU4"
+}

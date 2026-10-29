@@ -1,0 +1,17 @@
+{
+  "name": "Activate Quintessential Life",
+  "type": "rote",
+  "img": "modules/mage-the-ascension-5e-compendium/packs/assets/sphere-prime.svg",
+  "folder": "y2z1BZ8t2sKxDWG1",
+  "system": {
+    "description": "<p>Allows a mage to create a living pattern from nowhere, however each use or turn costs one quintessence unless it is made real by imbuing it with another appropriate sphere (such as creating a rabbit using Life 3).</p>",
+    "level": 3,
+    "sphere": "prime",
+    "source": {
+      "book": "M5 Mage the Ascension",
+      "page": "82"
+    }
+  },
+  "_id": "YXjuPmHZMs08uMMd",
+  "_key": "!items!YXjuPmHZMs08uMMd"
+}
