@@ -57,7 +57,7 @@
   ],
   "styles": ["styles/mage-compendium.css"],
   "url": "https://github.com/TJDBA/mage-the-ascension-5e-compendium",
-  "manifest": "https://raw.githubusercontent.com/TJDBA/mage-the-ascension-5e-compendium/feat/mage-sphere-powers/module.json",
-  "download": "https://github.com/TJDBA/mage-the-ascension-5e-compendium/archive/refs/heads/feat/mage-sphere-powers.zip",
+  "manifest": "https://raw.githubusercontent.com/TJDBA/mage-the-ascension-5e-compendium/main/module.json",
+  "download": "https://github.com/TJDBA/mage-the-ascension-5e-compendium/archive/refs/heads/main.zip",
   "flags": {}
 }
